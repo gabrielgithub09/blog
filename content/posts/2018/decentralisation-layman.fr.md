@@ -19,7 +19,7 @@ Il y a quelques mois, j’ai réalisé que je n’avais pas tout compris à la d
 ![Sur la pancarte d’Homer: “La fin est proche” — The Simpsons: Saison 16, Episode 19 — Thank God it’s Doomsday / C’est l’apocalypse, Dieu merci !](/img/2018/decentralisation-layman/homer.png)
 Sur la pancarte d’Homer: “La fin est proche” — The Simpsons: Saison 16, Episode 19 — Thank God it’s Doomsday / C’est l’apocalypse, Dieu merci !
 
-La décentralisation n’est vraiment pas un changement facile à appréhender. Imaginez vous en 1995, dans les premiers jours de l’Internet. Auriez-vous pu envisager toutes les utilisations potentielles de la technologie et les conséquences qu’elle allait avoir ? À cette époque, il y avait même [des acteurs majeurs de l’industrie de la technologie](https://www.newstatesman.com/science-tech/internet/2016/08/25-years-here-are-worst-ever-predictions-about-internet) qui étaient complètement à coté de la plaque :
+La décentralisation n’est vraiment pas un changement facile à appréhender. Imaginez-vous en 1995, dans les premiers jours de l’Internet. Auriez-vous pu envisager toutes les utilisations potentielles de la technologie et les conséquences qu’elle allait avoir ? À cette époque, il y avait même [des acteurs majeurs de l’industrie de la technologie](https://www.newstatesman.com/science-tech/internet/2016/08/25-years-here-are-worst-ever-predictions-about-internet) qui étaient complètement à côté de la plaque :
 
 *   **Robert Meltcafe pour Infoworld, 1995** :
 
@@ -29,7 +29,7 @@ La décentralisation n’est vraiment pas un changement facile à appréhender. 
 
 > « La plupart des projets qui réussissent ne requièrent pas de former à nouveau 250 millions d’individus. »
 
-**Il est facile de rire d’eux aujourd’hui mais avant ça demandez vous si vous n’êtes pas en train de faire exactement la même chose avec la décentralisation.**
+**Il est facile de rire d’eux aujourd’hui mais avant ça demandez-vous si vous n’êtes pas en train de faire exactement la même chose avec la décentralisation.**
 
 Ma première audience pour cet article, ce sont les gens qui ont lu deux articles dans des medias grand public avant de conclure sur l’inutilité de la décentralisation. **Laissez-moi compléter la trinité avec un avis informé.**
 
@@ -37,7 +37,7 @@ Les médias grand public sont là pour promouvoir des contenus émotionnels qui 
 
 Pour ma part, je ne suis qu’un de vos compatriotes âgé de 26 ans avec une passion pour l’écriture et du temps pour l’exercer. **Je n’ai rien à vous vendre mais simplement un but : aider les gens à réaliser ce qu’il est en train de se passer afin qu’ils puissent en prendre part.**
 
-J’ai testé le brouillon de cet article sur des gens de tout âge: pour 12 minutes de votre attention, il vous permet d’acquérir une grille de lecture qui vous laissera voir la décentralisation pour ce qu’elle est : les prémisses d’un nouvel ordre mondial.
+J’ai testé le brouillon de cet article sur des gens de tout âge : pour 12 minutes de votre attention, il vous permet d’acquérir une grille de lecture qui vous laissera voir la décentralisation pour ce qu’elle est : les prémisses d’un nouvel ordre mondial.
 
 Le changement est difficile, effrayant et déroutant. Il détruit vos références précédentes et vous laisse dans un monde où tout redevient inconnu et imprédictible. Cela demande du travail pour s’adapter, mais plus vous commencez tôt, plus cela sera aisé ; exactement comme pour Internet.
 
@@ -45,7 +45,7 @@ N’hésitez pas à partager cet article avec vos amis les plus enthousiastes ma
 
 ### La décentralisation est un spectre pluridimensionnel
 
-C’est un évidence pour certain, mais c’est un fait à rappeler : la décentralisation n’est pas un état (centralisé ou décentralisé), c’est un spectre. À une extrême, on a les systèmes les plus centralisés comme nos systèmes monétaires, avec une Banque « Centrale » qui décide d’à peu près tout. À l’autre bout du spectre, ce sont les systèmes les plus décentralisés, comme la langue anglaise par exemple. Je détaille cet exemple plus bas
+C’est une évidence pour certain, mais c’est un fait à rappeler : la décentralisation n’est pas un état (centralisé ou décentralisé), c’est un spectre. À une extrême, on a les systèmes les plus centralisés comme nos systèmes monétaires, avec une Banque « Centrale » qui décide d’à peu près tout. À l’autre bout du spectre, ce sont les systèmes les plus décentralisés, comme la langue anglaise par exemple. Je détaille cet exemple plus bas
 
 Avant de commencer, voici une infographie intéressante qui vous donne un aperçu du degré de centralisation de différentes industries :
 
@@ -68,11 +68,11 @@ Représentation graphique des transactions sur le Tangle (IOTA). [Visualizer: Ta
 Afin de déterminer à quel point un système est architecturalement décentralisé, posez-vous les deux questions suivantes :
 
 *   Combien d’appareils font tourner le réseau ?
-*   Sont ils concentrés dans une zone géographique ou répandus sur le globe ?
+*   Sont-ils concentrés dans une zone géographique ou répandus sur le globe ?
 
 #### 2\. La dimension politique
 
-La politique, c’est une affaire de pouvoir. Cette dimension couvre le système de décision du protocole. Les protocoles les plus centralisés politiquement sont ceux où une personne prend toute les décisions. À l’autre bout du spectre, vous trouverez de nombreux acteurs se partageant des responsabilités équivalentes.
+La politique, c’est une affaire de pouvoir. Cette dimension couvre le système de décision du protocole. Les protocoles les plus centralisés politiquement sont ceux où une personne prend toutes les décisions. À l’autre bout du spectre, vous trouverez de nombreux acteurs se partageant des responsabilités équivalentes.
 
 ![](/img/2018/decentralisation-layman/politics.jpeg)
 
@@ -80,9 +80,9 @@ Dans les systèmes les plus politiquement décentralisés, l’écart est minima
 
 Voici quelques questions pour vous aider à déterminer vers quel bout du spectre penche un système donné :
 
-*   Combien de personnes sont impliqués dans les décisions ?
+*   Combien de personnes sont impliquées dans les décisions ?
 *   Comment le pouvoir est réparti? Quels sont les critères utilisés pour déterminer l’influence de chaque participant ?
-*   Le système propose t-il des moyens pour faire réviser les décisions déjà prises / faire appel ?
+*   Le système propose-t-il des moyens pour faire réviser les décisions déjà prises / faire appel ?
 
 #### 3\. La dimension logique
 
@@ -94,13 +94,13 @@ Dans les mots de Vitalik, cela donne ça :
 
 En bref, cette dimension s’intéresse aux différences entre les nœuds du réseau. S’ils sont tous pareils, c’est un système qui penche vers l’extrême la plus logiquement centralisée.
 
-Passons aux exemples, ils sont bien plus parlant !
+Passons aux exemples, ils sont bien plus parlants !
 
 **Une démocratie directe**
 
 *   **L’architecture d’une démocratie directe est plutôt centralisée**: il n’y a que quelques endroits (nœuds) où les choses se passent — le parlement, les chambres…
 *   Malgré la centralisation architecturale, le pouvoir de décision est réparti dans une démocratie directe, c’est donc bien **un protocole politiquement décentralisé**.
-*   Il n’y a cependant qu’un seul gouvernement qui émet un ensemble de loi — un seul gros «élément » plutôt qu’une myriade de nœuds divers — **c’est un système à forte centralisation logique**.
+*   Il n’y a cependant qu’un seul gouvernement qui émet un ensemble de loi — un seul gros «élément» plutôt qu’une myriade de nœuds divers — **c’est un système à forte centralisation logique**.
 
 **Nation contre Fédération**
 
@@ -113,11 +113,11 @@ Aperçu de la centralisation de divers protocoles ([Source: Vitalik Buterin](ht
 
 **La langue anglaise**
 
-_Note : Par fidélité pour l’article original que j’ai écris en anglais, j’ai gardé l’anglais comme exemple. Cependant ce que je dis là peut s’appliquer à toute langue parlée par un grand nombre de personnes. Cela marche donc tout aussi bien avec le français !_
+_Note : Par fidélité pour l’article original que j’ai écrit en anglais, j’ai gardé l’anglais comme exemple. Cependant ce que je dis là peut s’appliquer à toute langue parlée par un grand nombre de personnes. Cela marche donc tout aussi bien avec le français !_
 
-*   **Au niveau de l’architecture, on est proche de la décentralisation maximale possible**: considérant l’anglais comme protocole, chaque personne parlant anglais est un nœud. Bonne nouvelle ! Les locuteurs anglais sont très nombreux et répartis partout autour du monde.
-*   D’un point de vue politique, c’est moins évident au premier abord. Oui, il y a des institutions officiels qui publient des grammaires et des dictionnaires. Mais la grammaire n’est pas loi, le choix de la suivre ou non se fait à votre discrétion. Le véritable langage anglais (celui que les linguistes étudient), ce n’est pas celui décrit dans les livres, c’est celui que les gens parlent, même s’ils prennent des libertés avec la grammaire ou la syntaxe. **La langue anglaise est donc un système qui présente une grande décentralisation politique.**
-*   Enfin **sur la dimension logique là encore on est proche de la décentralisation maximale possible.** Deux locuteurs anglais qui viennent de deux pays différents (voir régions) ne parlent pas le même anglais. En outre, de nombreuses variations locales de l’anglais existent: l’anglais de la couronne, l’anglais américain, le globish, mon favori le frenglish…
+*   **Au niveau de l’architecture, on est proche de la décentralisation maximale possible** : considérant l’anglais comme protocole, chaque personne parlant anglais est un nœud. Bonne nouvelle ! Les locuteurs anglais sont très nombreux et répartis partout autour du monde.
+*   D’un point de vue politique, c’est moins évident au premier abord. Oui, il y a des institutions officielles qui publient des grammaires et des dictionnaires. Mais la grammaire n’est pas loi, le choix de la suivre ou non se fait à votre discrétion. Le véritable langage anglais (celui que les linguistes étudient), ce n’est pas celui décrit dans les livres, c’est celui que les gens parlent, même s’ils prennent des libertés avec la grammaire ou la syntaxe. **La langue anglaise est donc un système qui présente une grande décentralisation politique.**
+*   Enfin **sur la dimension logique là encore on est proche de la décentralisation maximale possible.** Deux locuteurs anglais qui viennent de deux pays différents (voir régions) ne parlent pas le même anglais. En outre, de nombreuses variations locales de l’anglais existent : l’anglais de la couronne, l’anglais américain, le globish, mon favori le frenglish…
 
 ### UTILISER LE SPECTRE PLURIDIMENSIONNEL DE LA DÉCENTRALISATION
 
@@ -137,7 +137,7 @@ Overview of the main AWS datacenters location. Source: [AWS](https://aws.amazon
 
 ### DES EFFORTS QUI EN VALENT LA PEINE ?
 
-Maintenant qu’on est au point sur les trois dimensions de la décentralisation, vous vous demandez peut être pourquoi se casser la tête avec tout ça ? C’est vrai que les systèmes décentralisés ont tendance à être complexes et plus difficiles à gérer que des systèmes classiques : ils ont plein d’éléments différents qui les composent, une transparence qui n’est pas un devoir ou un vœu pieud mais un état de fait (blockchain publique), et les grandes décisions nécessitent un consensus.
+Maintenant qu’on est au point sur les trois dimensions de la décentralisation, vous vous demandez peut-être pourquoi se casser la tête avec tout ça ? C’est vrai que les systèmes décentralisés ont tendance à être complexes et plus difficiles à gérer que des systèmes classiques : ils ont plein d’éléments différents qui les composent, une transparence qui n’est pas un devoir ou un vœu pieu mais un état de fait (blockchain publique), et les grandes décisions nécessitent un consensus.
 
 #### Des systèmes efficaces pour faire des calculs ?
 
@@ -145,14 +145,14 @@ Tous ces impératifs listés plus haut alourdissent et ralentissent le système,
 
 En réalité, c’est même bien pire que ça. C’est dur de trouver une comparaison qui a du sens. Je vais prendre le prix d’une puissance de calcul équivalente qui à le mérite d’être simple.
 
-**Actuellement, le ratio entre le coût d’un calcul donné sur un système traditionnel (Amazon AWS) et un le même calcul fait sur le Ethereum World Computer est d’environ un million.** Pas besoin de me faire confiance, [vérifiez par vous-même](https://www.youtube.com/watch?v=a-xHiI-G_CQ&t=251s). Ça fait peur hein ?
+**Actuellement, le ratio entre le coût d’un calcul donné sur un système traditionnel (Amazon AWS) et le même calcul fait sur le Ethereum World Computer est d’environ un million.** Pas besoin de me faire confiance, [vérifiez par vous-même](https://www.youtube.com/watch?v=a-xHiI-G_CQ&t=251s). Ça fait peur hein ?
 
 Et bien… pas vraiment. D’abord, il est bon de se rappeler à quel point les calculs sont devenus peu chers lors des dernières décennies. On arrive à un stade ou même 1€ dépensé sur AWS correspond déjà à une puissance phénoménale. [Cette page](http://www.visualcapitalist.com/visualizing-trillion-fold-increase-computing-power/) propose plusieurs infographies super bien faites pour visualiser l’augmentation des puissances de calcul et stockage.
 
 ![La capacité des disques durs a grandement augmenté, pour une taille de plus en plus faible. [Source](http://www.visualcapitalist.com/visualizing-trillion-fold-increase-computing-power/)](/img/2018/decentralisation-layman/storage.gif)
 La capacité des disques durs a grandement augmenté, pour une taille de plus en plus faible. [Source](http://www.visualcapitalist.com/visualizing-trillion-fold-increase-computing-power/)
 
-Et puis il faut quand même se poser la question : est-ce que cette comparaison a un sens ? Elle nous aide à mieux cerner l’état encore balbutiant de la technologie, mais c’est à peu prêt tout.
+Et puis il faut quand même se poser la question : est-ce que cette comparaison a un sens ? Elle nous aide à mieux cerner l’état encore balbutiant de la technologie, mais c’est à peu près tout.
 
 **Lorsque l’on fait le choix de décentraliser un système, ce n’est pas pour la performance. On le fait pour les avantages que la décentralisation apporte.** Cela permet de créer de nouveaux types de services qu’on ne pouvait tout simplement pas créer sans décentraliser.
 
@@ -162,13 +162,13 @@ Pour faire simple, les systèmes décentralisés présentent des caractéristiqu
 
 #### EFFICACITÉ
 
-Dans certains cas, construire un système décentralisé est tout simplement le plus efficace (cf AWS), c’est la meilleure réponse à votre besoin. Prenons un exemple absurde mais parlant : la distribution des bureaux de poste en France est décentralisé. Ce ne serait pas efficace d’avoir une seul énorme bureau de poste à Paris.
+Dans certains cas, construire un système décentralisé est tout simplement le plus efficace (cf AWS), c’est la meilleure réponse à votre besoin. Prenons un exemple absurde mais parlant : la distribution des bureaux de poste en France est décentralisée. Ce ne serait pas efficace d’avoir un seul énorme bureau de poste à Paris.
 
 Il y a une autre notion utile qui joue un grand rôle dans l’efficacité des systèmes : la capacité de réserve (spare capacity). Prenez des gens qui possèdent déjà une ressource (comme une voiture ou une maison) mais qui ne l’utilisent que 10 % du temps. Ainsi plutôt que de construire votre propre infrastructure pour votre service, vous pouvez vous contenter d’utiliser celle déjà existante : avec Uber et Airbnb, on a désormais tous une compréhension pratique de ce concept.
 
 #### TOLÉRANCE AUX DÉFAILLANCES
 
-**Comme tout est redondé dans un système décentralisé, le risque que l’ensemble du système faillisse est bien plus faible que pour un système centralisé.** C’est précisément pourquoi les hébergeurs web (comme AWS) décentralisent leur architecture. Mais ce ne sont pas les seuls à bénéficier de la tolérance au défaillances : considérez par exemple le réseau de production et de distribution d’électricité.
+**Comme tout est redondé dans un système décentralisé, le risque que l’ensemble du système faillisse est bien plus faible que pour un système centralisé.** C’est précisément pourquoi les hébergeurs web (comme AWS) décentralisent leur architecture. Mais ce ne sont pas les seuls à bénéficier de la tolérance aux défaillances : considérez par exemple le réseau de production et de distribution d’électricité.
 
 Il y a une autre notion très parlante pour comprendre pour les systèmes décentralisés sont plus résilients, c’est le SPOF — Single Point of Failure / Point unique de défaillance. Cela qualifie un élément du réseau qui n’est pas redondé : s’il venait à lâcher, il entraînerait tout le réseau avec lui, d’où le nom.
 
@@ -176,7 +176,7 @@ Si vous me suivez toujours, vous devriez faire le lien : comme tout est redond�
 
 #### RÉSISTANCE AUX ATTAQUES
 
-La résistance aux attaques, c’est un affaire d’équilibre entre le coût et les bénéfices espérés. Il n’y a pas de système inattaquable. Ce qui existe réellement par contre, ce sont des systèmes qui sont trop coûteux à attaquer pour en valoir la peine.
+La résistance aux attaques, c’est une affaire d’équilibre entre le coût et les bénéfices espérés. Il n’y a pas de système inattaquable. Ce qui existe réellement par contre, ce sont des systèmes qui sont trop coûteux à attaquer pour en valoir la peine.
 
 Il faut également considérer les gens qui voudraient attaquer un système pour une autre raison que le profit immédiat : un concurrent qui chercherait à plomber le système par exemple. Même dans ce scénario, les ressources que l’attaquant doit mettre en œuvre sont immenses, et il n’a aucune garantie de réussir. Il est par contre certain de perdre énormément d’argent en essayant.
 
@@ -186,7 +186,7 @@ Il y a un autre fait important à prendre en compte : comme le réseau est rép
 
 L’idée de la résistance à la collusion est d’empêcher un sous-groupe du système de prendre le contrôle sur celui-ci afin de le détourner pour son intérêt propre, au détriment du reste des acteurs. L’exemple extrême de collusion c’est un monopole : un acteur gagne un avantage injuste et l’utilise pour imposer ses vues sur l’ensemble d’un marché.
 
-**Par exemple, nos démocraties modernes ont une résistance à la collusion véritablement pitoyable** : l’intérêt commun du système (le bien-être du pays et de ses habitants) est fréquemment, certains diraient même systématiquement, détourné aux profit d’un sous-groupe (disons les entreprises) pour leur propre bénéfice. (€€€)
+**Par exemple, nos démocraties modernes ont une résistance à la collusion véritablement pitoyable** : l’intérêt commun du système (le bien-être du pays et de ses habitants) est fréquemment, certains diraient même systématiquement, détourné aux profits d’un sous-groupe (disons les entreprises) pour leur propre bénéfice. (€€€)
 
 ### Conclusion
 
@@ -200,7 +200,7 @@ La décentralisation est un concept de haut-niveau, mais il est indispensable à
 
 _Les contenus cryptos qualitatifs en Français se font rare. Si vous connaissez des publications/vidéos FR de qualité, n’hésitez pas à les partager sur notre Discord._
 
-Vous avez peut être raté le virage de l’internet mais cette fois-ci vous arrivez au bon moment : on commence à peine ! **C’est maintenant qu’il faut se renseigner, lire et devenir expert sur le sujet afin d’être à même de reconnaître et saisir les opportunités lorsqu’elles se présenteront.**
+Vous avez peut-être raté le virage de l’internet mais cette fois-ci vous arrivez au bon moment : on commence à peine ! **C’est maintenant qu’il faut se renseigner, lire et devenir expert sur le sujet afin d’être à même de reconnaître et saisir les opportunités lorsqu’elles se présenteront.**
 
 J’espère que cet article aura contribué à votre compréhension du changement de paradigme apporté par la blockchain et les autres livres de compte (ledgers) décentralisés : la possibilité de développer des protocoles décentralisés à grande échelle.
 
