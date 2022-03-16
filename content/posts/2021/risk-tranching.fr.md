@@ -74,7 +74,7 @@ Tout cet article a en fait été inspiré par un tweet que j'ai publié et dans 
 
 Le découpage en tranches se fait sur une base d'_epoch_, actuellement fixée à deux semaines. Ainsi, si vous fournissez la tranche A, par exemple, vous supportez le risque de défaillance de la plate-forme pour la tranche AA pendant une période de deux semaines.
 
-Grâce à l'enthousiasme qui a suivi le lancement, Saffron s'est développé pour atteindre près de 60 millions de dollars d'actifs déposés. Depuis lors, il y a eu un minimum de 15 millions de dollar d'actif déposé à tout moment sur le service.
+Grâce à l'enthousiasme qui a suivi le lancement, Saffron s'est développé pour atteindre près de 60 millions de dollars d'actifs déposés. Depuis lors, il y a eu un minimum de 15 millions de dollars d'actif déposés à tout moment sur le service.
 
 ![Saffron Finance TVL - Debank](/img/2021/risk-tranching/saffron-debank.png "Aperçu historique de la valeur totale bloquée sur Saffron Finance - Debank")
 
@@ -118,7 +118,7 @@ Pour résoudre ce problème, une autre couche de services méta-financiers est e
 
 Le côté acheteur de ces services est très intéressant : imaginez-le **comme un marché de prédiction, pour le rendement des vaults ou des marchés monétaires**. Les acheteurs déposent des actifs et parient sur le rendement moyen attendu : plus leur prédiction est proche, meilleur est leur rendement. 
 
-Je ne pense pas que le côté acheteur se généralisera de sitôt, mais il constitue **l'épine dorsale d'une primitive financière utile** pour fournir des services mieux adaptés à tout type d'investisseur.
+Je ne pense pas que le côté acheteur se généralise de sitôt, mais il constitue **l'épine dorsale d'une primitive financière utile** pour fournir des services mieux adaptés à tout type d'investisseur.
 
 ### La fixation de rendement en pratique
 
