@@ -27,7 +27,7 @@ Cette idée a été documentée dès la fin des années 60[^1]. Ce qui reste, ce
 
 ![livre-individu-souverain](/img/2021/technofeudalism-sovereign-individual/sovereign-individual-book.png "The Sovereign Individual - James Dale Davidson et William Rees-Mogg (1997)")
 
-Ils __traitent les États-nations comme de simples prestataires de services__ (santé, éducation, justice, etc.) et les mettent en concurrence les uns avec les autres. Bien qu'ils soient encore citoyens d'un ou de plusieurs pays, ils n'y sont pas liés et peuvent se déplacer au gré des circonstances.
+Ils traitent les États-nations comme de simples prestataires de services (santé, éducation, justice, etc.) et les mettent en concurrence les uns avec les autres. Bien qu'ils soient encore citoyens d'un ou de plusieurs pays, ils n'y sont pas liés et peuvent se déplacer au gré des circonstances.
 
 La réalité permettra une étrange mais inévitable cohabitation des deux tendances. C'est l'essentiel de la thèse que je veux explorer aujourd'hui.
 
@@ -43,7 +43,7 @@ Pour approfondir le concept de nation, n'hésitez pas à aller lire la dernière
 
 Cette thèse s'appuie sur une précédente : l'érosion progressive du pouvoir et de l'influence des États-nations. Cela ne se fera pas du jour au lendemain, c'est plutôt un processus itératif, tout comme la façon dont nos structures de pouvoir précédentes ont perdu leur pertinence, comme l'Église : elles existent toujours, mais leur impact est d'un ordre de grandeur inférieur à ce qu'elle était il y a quelques siècles.
 
-Plusieurs phénomènes concomittants conduisent les états-nations à l'obsolescence[^5] :
+Plusieurs phénomènes concomitants conduisent les états-nations à l'obsolescence[^5] :
 
 1.  D'abord le plus évident : **Les États sont à sec** ! En effet, le pouvoir des États est directement indexé sur leur richesse. Pourtant, la plupart des États sont de moins en moins capables de percevoir correctement les impôts qui leur sont dus - et qui constituent leur principale source de subsistance.
 2.  Les États sont **incapables de faire des analyses cohérentes, de dresser des plans à long terme et de les suivre**, et je pense que l'apparition de Covid a dissipé les quelques doutes qui subsistaient chez les sceptiques à ce sujet. Les raisons en sont diverses, notamment les mandats courts, la transformation de notre vie politique en une télé-réalité de bas étage, ou la place qu'a pris le lobbying. 
@@ -65,7 +65,7 @@ Pour dire les choses simplement, **nos gouvernements ont été "piratés" : ils 
 
 La "volonté du peuple" ou "l'opinion publique" n'a plus d'importance puisqu'elle est devenue **une simple mesure à surveiller** sans poids réel dans le jeu. Elle est maintenue à un certain seuil pour que l'illusion démocratique perdure. Parfois, le seuil est atteint et des protestations surgissent. 
 
-L'essentiel, c'est ce qui se passe après : lorsque les citoyens osent enfin demander quoi que ce soit de significatif, au mieux ils sont englués par la pensée dominante et au pire subissent une répression policière sevère tout comme les seigneurs pouvaient envoyer leurs fantassins pour étouffer une émeute sans même se soucier des demandes.
+L'essentiel, c'est ce qui se passe après : lorsque les citoyens osent enfin demander quoi que ce soit de significatif, au mieux ils sont englués par la pensée dominante et au pire subissent une répression policière sévère tout comme les seigneurs pouvaient envoyer leurs fantassins pour étouffer une émeute sans même se soucier des demandes.
 
 ### Le citoyen et le serf
 
@@ -94,7 +94,7 @@ En effet, l'émergence de la **finance décentralisée** (DeFi) a complètement 
 
 Alors que les valeurs de notre système politique sont des promesses qui doivent être activement tenues, les valeurs de la DeFi sont appliquées au niveau du code : **elles sont le résultat du fonctionnement normal du système et ne peuvent être violées**.
 
-La DeFi permet donc aux individus de posséder et d'échanger des biens sans avoir besoin d'un intermédiaire - c'était une forme de pièce manquante à la sauvegarde de la souveraineté. Grâce à la DeFi, tout le monde peut accéder à des services financiers d'élite plus résistants que ceux du monde classiques rendus possibles grâce à une mixture de sociétés privés et de cadres juridiques.
+La DeFi permet donc aux individus de posséder et d'échanger des biens sans avoir besoin d'un intermédiaire - c'était une forme de pièce manquante à la sauvegarde de la souveraineté. Grâce à la DeFi, tout le monde peut accéder à des services financiers d'élite plus résistants que ceux du monde classique rendus possibles grâce à une mixture de sociétés privées et de cadres juridiques.
 
 Si vous n'en avez jamais entendu parler, vous êtes au bon endroit ! **[Cette introduction]({{< relref path="/content/learndefi/_index.fr.md" >}})** vous aidera à démarrer, et vous trouverez de nombreux articles traitant de la DeFi sur ce blog.
 
