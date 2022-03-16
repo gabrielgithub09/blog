@@ -37,11 +37,11 @@ L’inflation correspond à la production de nouvelle monnaie, l’important n�
 
 
 
-1. La banque centrale d’un pays A émet une quantité importante de monnaie afin d’investir massivement dans ses infrastructures de transport et son approvisionnement énergétique (= investissements long terme). 
+1. La banque centrale d’un pays A émet une quantitée importante de monnaie afin d’investir massivement dans ses infrastructures de transport et son approvisionnement énergétique (= investissements long terme). 
 
 _Ici, l’inflation peut être a priori maîtrisée car la nouvelle monnaie émise sert à financer des investissements développant le potentiel économique du pays sur le long terme (-> compensation)_
 
-2. La banque centrale d’un pays B émet une quantité importante de monnaie afin de financer un plan d’urgence visant à compenser les conséquences prévisibles de précédentes mesures pseudo-sanitaires.
+2. La banque centrale d’un pays B émet une quantitée importante de monnaie afin de financer un plan d’urgence visant à compenser les conséquences prévisibles de précédentes mesures pseudo-sanitaires.
 
 _Dans ce second scénario, la nouvelle monnaie est utilisée pour couvrir une “dépense courante" de l’État. L'équivalent à votre échelle personnelle serait de vous endetter chaque midi pour payer votre déjeuner. C’est évidemment intenable sur le long terme. Dans ce scénario, l’inflation ne peut être que massive car une quantité importante de nouvelle monnaie est émise, tandis que le potentiel économique du pays en question stagne ou se détériore._
 
@@ -171,7 +171,7 @@ Outre les quelques stablecoins centralisés (EURS ou EURT) c’est un marché su
 
 ### Simple dépôt
 
-Les opportunités natives de rendementsans IL sur de tels stablecoins sont encore assez rares, et se situent généralement sur Curve : l’apport de liquidité contre d’autres stablecoins basés sur la même monnaie fiduciaire, s’il y en a.
+Les opportunités natives de rendement sans IL sur de tels stablecoins sont encore assez rares, et se situent généralement sur Curve : l’apport de liquidité contre d’autres stablecoins basés sur la même monnaie fiduciaire, s’il y en a.
 
 ![Pool CHF sur Curve Finance](/img/2022/defi-vs-inflation/curve-chf.png "Une pool CHF sur Curve Finance")
 
@@ -194,7 +194,7 @@ Ainsi Jarvis propose des pools jCHF-USDC, jEUR-USDC ou encore jCAD-USDC avec des
 
 Attention : en fonction de votre actif de base (par ex USDC), s’exposer à de l’EUR (ou autre monnaie) peut être lucratif ou coûteux - tout dépend de l’évolution du taux de change USDC/EUR.
 
-Enfin, pour les plus aventuriers d’entrevous, sachez qu’APWine est également disponible sur Polygon et supporte déjà plusieurs tokens de Jarvis, comme par exemple le MooJarvis_4eur :
+Enfin, pour les plus aventuriers d’entre vous, sachez qu’APWine est également disponible sur Polygon et supporte déjà plusieurs tokens de Jarvis, comme par exemple le MooJarvis_4eur :
 
 
 
@@ -280,7 +280,7 @@ Le Frax Price Index, c’est un nouveau protocole qui devrait arriver prochainem
 
 [La documentation de Frax](https://docs.frax.finance/frax-price-index/inflation-hedge) vous offre quelques informations sur le token à venir. **Un airdrop de FPIS est prévu** pour les holders de veFXS ou encore cvxFXS. Ainsi, le protocole sera indépendant de FRAX/FXS, bien qu’un mécanisme de capture de valeur vers FXS est prévu au-delà de l’airdrop initial.
 
-Il est dur de se projeter sur un simple design envisagé, mais il est clair qu’un stablecoin qui maintiendrait sa valeur malgré l’inflation est un produit très désirable. **Plusieurs questions se posent quant au maintien du peg sur FPI** : pour maintenir son équilibre, il va falloir que des gens prennent le trade contraire au FPI, c’est à dire “short inflation”. Or, dans le contexte actuel avec une inflation galopante, on a du mal à envisager qui pourrait assumer une telle position.
+Il est dur de se projeter sur un simple design envisagé, mais il est clair qu’un stablecoin qui maintiendrait sa valeur malgré l’inflation est un produit très désirable. **Plusieurs questions se posent quant au maintien du peg sur FPI** : pour maintenir son équilibre, il va falloir que des gens prennent le trade contraire au FPI, c’est-à-dire “short inflation”. Or, dans le contexte actuel avec une inflation galopante, on a du mal à envisager qui pourrait assumer une telle position.
 
 Néanmoins, l'arrivée du FPI est imminente. On trouve des traces du token [FPIS sur EtherScan](https://etherscan.io/token/0xdb68c6264e9d0f8a6df1fa5a89f205da38698d15) depuis début Mars. J’ai hâte de voir le design proposé par l’équipe Frax pour répondre à ces enjeux conséquents.
 
@@ -294,7 +294,7 @@ En effet, Abracadabra permet d’emprunter depuis divers collatéraux productifs
 L’idée ici, avec Volt, c’est de couvrir la même verticale en utilisant une infrastructure qui a fait ses preuves : la base offerte par Reflexer (RAI). Trois modifications principales sont attendues sur ce modèle :
 
 1. Contrairement à Reflexer qui n’accepte que ETH en collatéral, Volt va diversifier les options disponibles, notamment avec des collatéraux productifs type wstETH. 
-2. La valeur de VOLT, le stablecoin du système, sera indexée sur le FPI de Frax. L’infrastructure de Reflexer sera là encore réutilisée (PID controller adapté)
+2. La valeur de VOLT, le stablecoin du système, sera indexée sur le FPI de Frax. L’infrastructure de Reflexer sera là encore utilisée (PID controller adapté)
 3. L’équipe de Volt travaille également en collaboration avec Fuse et Olympus.
 
 Pour suivre Volt, rien de mieux que [leur Discord ](https://discord.gg/dGhvDmCNGr)!
@@ -332,7 +332,7 @@ Chez les romains, les Parques sont trois déesses qui gouvernent la vie des huma
 2. Lachesis le déroule
 3. Atropos le découpe
 
-La DeFi connaît elle aussi ces Parques : trois protocoles qui jouent un rôle critique dans la survie et croissance de potentiellement tout autre.
+La DeFi connaît elle aussi ces Parques : trois protocoles qui jouent un rôle critique dans la survie et la croissance de potentiellement tout autre.
 
 En effet, outre l’ETH, il y a plusieurs projets DeFi qui ont déjà fait leurs preuves, contrôlent des flux de revenu conséquents et offrent un service réellement pertinent dans un contexte macro d’inflation prolongée ; j’en vois trois essentiellement :
 
@@ -370,7 +370,7 @@ Outre l’approche technique très intéressante, Reflexer innove également à 
 
 En outre, **Reflexer dépasse désormais RAI**. La Money God League et un ensemble de projet construit l’infrastructure Reflexer, avec le soutien de l’équipe. Il semble donc assez naturel d’envisager un airdrop de ces nouveaux projets, dont VOLT, vers les holders de FLX.
 
-Dernier tuyau : les stakers du LP FLX/ETH dans le Safety Module de Reflexer sont les derniers recours qui permettent de garantir la solvabilité du protocole. Si je devais envisager un airdrop pour remercier la communauté Reflexer, c’est sans doute eux que je viserai en priorité
+Dernier tuyau : les stakers du LP FLX/ETH dans le Safety Module de Reflexer sont les derniers recours qui permettent de garantir la solvabilité du protocole. Si je devais envisager un airdrop pour remercier la communauté Reflexer, c’est sans doute eux que je viserait en priorité
 
 
 #### LooksRare (LOOKS) : pari sur les NFTs
@@ -410,7 +410,7 @@ Et enfin pour la pratique, qui reste ESSENTIELLE, le mieux est encore d’essaye
 {{< notice info >}}
 Disclosure: J’ai investi dans la pre-sale d’APWine et je suis un grand utilisateur du protocole. Je suis utilisateur et souvent holder de quasi tous les protocoles mentionnés dans cet article. 
 
-Cet article ne constitue pas un conseil en investissement : je partage simplement mes recherches pour vous aider à faire les votres.
+Cet article ne constitue pas un conseil en investissement : je partage simplement mes recherches pour vous aider à faire les vôtres.
 {{< /notice >}}
 
 _🙏 Un grand merci à [Charles](https://twitter.com/C53300), [PhilH](https://twitter.com/phil_h) et [Disiaque](https://twitter.com/disiaque_eth) pour leur relecture attentive et leurs nombreuses suggestions pertinentes._
