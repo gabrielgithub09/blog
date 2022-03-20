@@ -60,7 +60,7 @@ Depuis la phase initiale de distribution, plusieurs ajustements ont été apport
 
 Cette évolution réduit les incitations pour la "liquidité mercenaire", en particulier pour les liquidités gérées par des vaults par exemple & permet de **s'assurer que les grands fournisseurs de liquidités sont également détenteurs de SUSHI à tout moment** (même jusqu'à 6 mois après la fin de leur exploitation), ce qui permet de mieux aligner les intérêts.
 
-Pour parvenir à cette répartition, SushiSwap distribue une commission de 0,25 % pour chaque swap aux LP, tout comme les 0,30 % d'Uniswap. En plus de cette commission, une autre commission de 0,05 % est perçue sur chaque swap sous forme de LP tokens, elle est fréquemment vendue pour des SUSHI distribuée aux stakers.
+Pour parvenir à cette répartition, SushiSwap distribue une commission de 0,25 % pour chaque swap aux LP, tout comme les 0,30 % d'Uniswap. En plus de cette commission, une autre commission de 0,05 % est perçue sur chaque swap sous forme de LP tokens, elle est fréquemment vendue pour des SUSHI distribués aux stakers.
 
 Les améliorations apportées par Sushi sont pertinentes, mais à mes yeux, le véritable changement de jeu est le modèle Curve, alors voyons voir.
 
