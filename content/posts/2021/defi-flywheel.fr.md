@@ -115,7 +115,7 @@ Sur le papier, Pickle a tout d'une flywheel : c'est un système pour augmenter l
 
 Sauf que… Pickle n'apporte techniquement strictement rien en plus de Yearn, en dehors de l'émission de PICKLE. En outre, Pickle ne se spécialise pas : des fermes sont proposées sur les vault Yearn mais aussi certaines paires Sushi. À l'inverse de Convex, Pickle n'est donc pas en mesure de développer un avantage unique (moat) sur les services farmés.
 
-En DeFi rien n'est définitif. La situation de Pickle pourrait évoluer, si les tokenomics des protocoles sous-jacents (YFI et SUSHI) évoluent. Les deux protocoles semblent s'orienter vers une réappropriation du modèle VeCRV donc c'est tout à fait possible. Un modèle qui mèle la logique de burn Adamant/Ellipsis et le boosting Curve a même été proposé pour Sushi : **[oSUSHI](https://forum.sushi.com/t/sushinomics-introducing-osushi/4055)**.
+En DeFi rien n'est définitif. La situation de Pickle pourrait évoluer, si les tokenomics des protocoles sous-jacents (YFI et SUSHI) évoluent. Les deux protocoles semblent s'orienter vers une réappropriation du modèle VeCRV donc c'est tout à fait possible. Un modèle qui mêle la logique de burn Adamant/Ellipsis et le boosting Curve a même été proposé pour Sushi : **[oSUSHI](https://forum.sushi.com/t/sushinomics-introducing-osushi/4055)**.
 
 ![veYFI](/img/2021/defi-flywheel/veYFI.png "Exemple d'interface pour le mécanisme de verrouillage/boost YFI (veYFI)")
 
