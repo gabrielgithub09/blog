@@ -12,7 +12,7 @@ url: pool-together
 
 La DeFi a permis l’émergence d’un système financier alternatif construit sur des bases fondamentalement différentes : transparence, open-source, composabilité et résistance à la censure. De nombreux cas d'utilisation ont émergé et il est désormais possible d’acheter et d’échanger des tokens sans intermédiaire centralisé, mais aussi prêter ou emprunter et bien plus encore !
 
-Notre sujet du jour, PoolTogether fait lui un pas de plus : il utilise et assemble différents services DeFi pour proposer un “jeu d’argent” d’un type nouveau, qui se veut à la fois plus amusant, mais aussi plus instructif et bien moins dangereux et délétère que sa contrepartie classique.
+Notre sujet du jour, PoolTogether fais lui un pas de plus : il utilise et assemble différents services DeFi pour proposer un “jeu d’argent” d’un type nouveau, qui se veut à la fois plus amusant, mais aussi plus instructif et bien moins dangereux et délétère que sa contrepartie classique.
 
 Je vous propose donc d’explorer ce protocole dans le détail : on commence par son contexte, avant d’analyser son fonctionnement et les différents enjeux qu’il implique. C’est parti !
 
@@ -44,7 +44,7 @@ Le sujet est complexe et comme pour la cigarette, souvent documenté et recherch
 
 > "Enfin, en 2017, la pratique des jeux d’argent sur Internet (jeux de loterie, paris hippiques ou sportifs et poker) représentait 11,2 % des dépenses totales, part en constante progression depuis son autorisation en 2010."
 
-Observatoire Francais des Drogues et Toxicomanie - [Les Francais et les jeux d’argent et de hasard](https://www.ofdt.fr/BDD/publications/docs/eftxjc2a6.pdf) et [graphique ORDT](https://www.ofdt.fr/odj/Donn%C3%A9es%20d%27activit%C3%A9%20Fran%C3%A7aise%20des%20jeux%20(FDJ)%20economie.gouv.fr.htm).
+Observatoire Français des Drogues et Toxicomanie - [Les Français et les jeux d’argent et de hasard](https://www.ofdt.fr/BDD/publications/docs/eftxjc2a6.pdf) et [graphique ORDT](https://www.ofdt.fr/odj/Donn%C3%A9es%20d%27activit%C3%A9%20Fran%C3%A7aise%20des%20jeux%20(FDJ)%20economie.gouv.fr.htm).
 
 D’autres statistiques sont tout simplement désespérantes mais au final compréhensible : **plus la misère sociale et économique augmente, plus la promesse du jackpot de la loterie attire les crédules**, augmentant ainsi les gains privatisés de la FDJ et autres, et détruisant toujours un peu plus le tissu social.
 
@@ -69,7 +69,7 @@ En DeFi, il y a différentes sources de rendements, par exemple un possesseur d�
 
 
 
-1. Des joueurs déposent de l’USDC dans la pool USDC sur PoolTogether - et reçoivent un token correspondant pour reconnaitre leur depot (PTaUSDC)
+1. Des joueurs déposent de l’USDC dans la pool USDC sur PoolTogether - et reçoivent un token correspondant pour reconnaître leur dépôt (PTaUSDC)
 2. La pool (jeu de smart contracts) déploie les actifs dans différentes stratégies afin de produire un rendement. Le rendement est collecté et sert à alimenter le prix des gagnants.
 3. Chaque USDC déposé dans la pool (⇒ PTaUSDC) correspond à un ticket de loterie potentiellement gagnant. Tous les jours, un tirage a lieu grâce à un mécanisme d’aléatoire auditable (ChainLink VRF) pour déterminer les nombreux gagnants, avec initialement 3 échelles de prix : 10 PTaUSDC, 100 PTaUSDC ou bien 2500 PTaUSDC le jackpot.
 
@@ -155,7 +155,7 @@ Cette distribution permet ainsi de récompenser fréquemment les joueurs qui uti
 1. Une chance décente (en fonction de la taille du dépôt) d’avoir de petits gains (prix $10 et $100) 
 2. & faible probabilité d’avoir un gain massif : le jackpot de $2500.
 
-Au-delà du modèle de prix, c’est toute l’expérience autour de l’allocation des prix qui a été revue avec la v4. La gouvernance a d’ailleurs continué a itéré et récemment voté une refonte de la structure des prix : [PTIP-47: Prize Adjustments](https://gov.pooltogether.com/t/ptip-47-prize-adjustments/1752).
+Au-delà du modèle de prix, c’est toute l’expérience autour de l’allocation des prix qui a été revue avec la v4. La gouvernance a d’ailleurs continué à itéré et récemment voté une refonte de la structure des prix : [PTIP-47: Prize Adjustments](https://gov.pooltogether.com/t/ptip-47-prize-adjustments/1752).
 
 ![prize-breakdown](/img/2021/pool-together/prize-breakdown.png "La nouvelle distribution des prix")
 
