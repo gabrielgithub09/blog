@@ -41,9 +41,9 @@ Depuis le début, la communauté a été mise au centre avec Badger. C'est clair
 
 En effet, les deux plus grandes parts du total circulant des deux tokens ont été allouées au programme de liquidity mining - récompensant les utilisateurs actifs du protocole ainsi que la trésorerie du DAO chargée de structurer les opérations à long terme du protocole et sa croissance.
 
-Les aidrops, ainsi que les vaults, ont créé une boucle très attrayante pour les destinataires : contrairement au airdrop UNI où le choix était simplement vendre ou attendre, avec BADGER & DIGG, les personnes **optimistes quant au protocole dès le départ avaient la possibilité de s'impliquer avec leurs tokens reçus grâce aux vaults.**.
+Les airdrops, ainsi que les vaults, ont créé une boucle très attrayante pour les destinataires : contrairement au airdrop UNI où le choix était simplement vendre ou attendre, avec BADGER & DIGG, les personnes **optimistes quant au protocole dès le départ avaient la possibilité de s'impliquer avec leurs tokens reçus grâce aux vaults.**.
 
-L'aidrop initial de BADGER reconnaissait les actions clés liées à Bitcoin sur Ethereum, ainsi que les donateurs de gitcoin. Le deuxième airdrop (DIGG) a récompensé les interactions avec l'écosystème de Badger lui-même.
+L'airdrop initial de BADGER reconnaissait les actions clés liées à Bitcoin sur Ethereum, ainsi que les donateurs de gitcoin. Le deuxième airdrop (DIGG) a récompensé les interactions avec l'écosystème de Badger lui-même.
 
 En plus de l'élan créé par le lancement et la distribution initiale, la communauté a pu le maintenir grâce à un esprit de meme florissant : une distribution de NFT a été organisée sur Meme[^2], disponible pour les déposants dans le sett bBADGER ou le sett wBTC/BADGER Uniswap.
 
@@ -52,7 +52,7 @@ Au total, 6 NFTs différents étaient disponibles et le premier à les collecter
 ![un NFT Meme-Badger](/img/2021/badger-digg/badger-nft-satoshi.gif/ "Un des 6 Badger x Meme NFTs - Satoshi")
 
 {{< notice tip >}}
-Si vous êtes très optimiste sur le prix d'un token à court terme, c'est généralement une mauvaise idée d'entrer dans une position à 50/50 fournissant des liquidités sur celui-ci, surtout si vous vous attendez à ce que l'autre actif de la paire (ETH, stablecoins ou ici wBTC) reste relativement stable sur la même période. Si vous craignez que ce scénario se produise avec Badger ou DIGG, vous pouvez déposer dans les coffres-forts de BADGER ou de DIGG uniquement (pas de risque de perte impermanente).
+Si vous êtes très optimiste sur le prix d'un token à court terme, c'est généralement une mauvaise idée d'entrer dans une position à 50/50 fournissant des liquidités sur celui-ci, surtout si vous vous attendez à ce que l'autre actif de la paire (ETH, stablecoins ou ici wBTC) reste relativement stable sur la même période. Si vous craignez que ce scénario se produise avec Badger ou DIGG, vous pouvez le déposer dans les coffres-forts de BADGER ou de DIGG uniquement (pas de risque de perte impermanente).
 {{< /notice >}}
 
 ---
@@ -71,7 +71,7 @@ Après discussion au sein de la communauté, il a été décidé de partir avec 
 
 ![wen-digg](/img/2021/badger-digg/wen-digg.jpeg/ "Wen DIGG meme contest")
 
-Badger étant Badger, la machine à hype était bien sûr au point avec un concours de mèmes "Wen DIGG ?" pour s'assurer que tout le monde soit au courant. 
+Badger étant Badger, la machine à hype était bien sûr au point avec un concours de memes "Wen DIGG ?" pour s'assurer que tout le monde soit au courant. 
 
 Alors sans plus attendre, plongeons dans le vif du sujet : les rebases.
 
@@ -106,7 +106,7 @@ Avec le lancement du DIGG, la prochaine grande étape pour Badger, en tant que p
 
 Pour être plus clair (tout en extrapolant un peu) : imaginez le Badger actuel, avec une fonction supplémentaire vous permettant de frapper des DAI à partir de vos sets comme vous le faites avec vos ETH sur Maker. Vous ne le feriez pas ?
 
-En effet, les setts constitueraient un collateral tout à fait souhaitable, étant donné qu'ils prennent de la valeur par rapport à l'actif de base. Ainsi, les setts BTC  par exemple, pourraient être aussi sûrs que leurs actifs sous-jacents (ex wBTC), compte tenu des risques supplémentaires liés au fait que l'actif sous-jacent est dans une position d'apporteur de liquidité.
+En effet, les setts constituent un collateral tout à fait souhaitable, étant donné qu'ils prennent de la valeur par rapport à l'actif de base. Ainsi, les setts BTC  par exemple, pourraient être aussi sûrs que leurs actifs sous-jacents (ex wBTC), compte tenu des risques supplémentaires liés au fait que l'actif sous-jacent est dans une position d'apporteur de liquidité.
 
 Toutefois, avant que nous n'ayons un marché de prêt natif sur Badger, je m'attends à voir différents **tokens et setts liés à Badger acceptés en collateral** sur d'autres plateformes de prêt.
 
