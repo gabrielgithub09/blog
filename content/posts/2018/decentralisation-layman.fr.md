@@ -81,7 +81,7 @@ Dans les systèmes les plus politiquement décentralisés, l’écart est minima
 Voici quelques questions pour vous aider à déterminer vers quel bout du spectre penche un système donné :
 
 *   Combien de personnes sont impliquées dans les décisions ?
-*   Comment le pouvoir est réparti? Quels sont les critères utilisés pour déterminer l’influence de chaque participant ?
+*   Comment le pouvoir est-il réparti ? Quels sont les critères utilisés pour déterminer l’influence de chaque participant ?
 *   Le système propose-t-il des moyens pour faire réviser les décisions déjà prises / faire appel ?
 
 #### 3\. La dimension logique
@@ -104,9 +104,9 @@ Passons aux exemples, ils sont bien plus parlants !
 
 **Nation contre Fédération**
 
-*   Tout comme la démocratie directe, **les deux sont des systèmes centralisés en terme d’architecture.** Il n’y a que peu de nœuds par rapport à l’ensemble de la population affectée par les décisions.
+*   Tout comme la démocratie directe, **les deux sont des systèmes centralisés en termes d’architecture.** Il n’y a que peu de nœuds par rapport à l’ensemble de la population affectée par les décisions.
 *   Les deux tendent également vers une centralisation politique très forte. Le président/l’assemblée/les représentants élus ou non concentrent l’essentiel du pouvoir de décision. Ils n’ont aucun compte à rendre (pendant leur mandat) et vous ne pouvez pas changer de président au bout de deux ans, même s’il est avéré que celui-ci a menti sous serment, nuit aux intérêts du pays ou détourné de l’argent public (Bonjour Mr. Trump). La fédération peut être un peu moins centralisé que la nation, mais ça reste assez proche.
-*   Là où les choses deviennent intéressantes c’est au niveau de la dimension logique. Une nation, c’est un gros monolithe bien centralisé logiquement. De l’autre coté, une fédération c’est un ensemble de différents acteurs qui souhaitent préserver leur souveraineté et différence tout en agissant dans un but commun — un bon exemple d’un système qui présente une décentralisation logique forte.
+*   Là où les choses deviennent intéressantes c’est au niveau de la dimension logique. Une nation, c’est un gros monolithe bien centralisé logiquement. De l’autre côté, une fédération est un ensemble de différents acteurs qui souhaitent préserver leur souveraineté et différence tout en agissant dans un but commun — un bon exemple d’un système qui présente une décentralisation logique forte.
 
 ![Aperçu de la centralisation de divers protocoles ([Source: Vitalik Buterin](https://www.youtube.com/watch?v=cgStgMyR9sY))](/img/2018/decentralisation-layman/decentralisation-quadrant.png)
 Aperçu de la centralisation de divers protocoles ([Source: Vitalik Buterin](https://www.youtube.com/watch?v=cgStgMyR9sY))
@@ -141,7 +141,7 @@ Maintenant qu’on est au point sur les trois dimensions de la décentralisation
 
 #### Des systèmes efficaces pour faire des calculs ?
 
-Tous ces impératifs listés plus haut alourdissent et ralentissent le système, non ? Alors pourquoi s’embêter ? En effet, d’un point de vue de la pure efficacité technique, les systèmes centralisés sont loins devant les systèmes décentralisés.
+Tous ces impératifs listés plus haut alourdissent et ralentissent le système, non ? Alors pourquoi s’embêter ? En effet, d’un point de vue de la pure efficacité technique, les systèmes centralisés sont loin devant les systèmes décentralisés.
 
 En réalité, c’est même bien pire que ça. C’est dur de trouver une comparaison qui a du sens. Je vais prendre le prix d’une puissance de calcul équivalente qui à le mérite d’être simple.
 
@@ -158,7 +158,7 @@ Et puis il faut quand même se poser la question : est-ce que cette comparaison
 
 ### Les avantages de la décentralisation
 
-Pour faire simple, les systèmes décentralisés présentent des caractéristiques qui leur ouvrent un large champs de potentiel cas d’utilisation. On va détailler les principaux avantages un par un.
+Pour faire simple, les systèmes décentralisés présentent des caractéristiques qui leur ouvrent un large champ de potentiel cas d’utilisation. On va détailler les principaux avantages un par un.
 
 #### EFFICACITÉ
 
@@ -176,7 +176,7 @@ Si vous me suivez toujours, vous devriez faire le lien : comme tout est redond�
 
 #### RÉSISTANCE AUX ATTAQUES
 
-La résistance aux attaques, c’est une affaire d’équilibre entre le coût et les bénéfices espérés. Il n’y a pas de système inattaquable. Ce qui existe réellement par contre, ce sont des systèmes qui sont trop coûteux à attaquer pour en valoir la peine.
+La résistance aux attaques, c’est une affaire d’équilibre entre le coût et les bénéfices espérés. Il n’y a pas de système inattaquable. Ce qui existe réellement en revanche, ce sont des systèmes qui sont trop coûteux à attaquer pour en valoir la peine.
 
 Il faut également considérer les gens qui voudraient attaquer un système pour une autre raison que le profit immédiat : un concurrent qui chercherait à plomber le système par exemple. Même dans ce scénario, les ressources que l’attaquant doit mettre en œuvre sont immenses, et il n’a aucune garantie de réussir. Il est par contre certain de perdre énormément d’argent en essayant.
 
