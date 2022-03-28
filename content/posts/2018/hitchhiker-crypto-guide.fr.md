@@ -19,7 +19,7 @@ Les whitepapers (WP pour le reste de l’article) peuvent faire peur. Bien que c
 
 #### Un Anglais irréprochable
 
-Surprenant ? Pas vraiment si vous considérez la chose sous cette angle : **comment faire confiance à une équipe pour un développer projet décentralisé de grande envergure si elle n’est pas capable de sortir 20 pages sans fautes ?** Ça peut sembler petit, voir même mesquin mais croyez-moi : si vous y trouvez un Anglais douteux voir de nombreuses fautes, mieux vaut commencer à courir !
+Surprenant ? Pas vraiment si vous considérez la chose sous cet angle : **comment faire confiance à une équipe pour un développer projet décentralisé de grande envergure si elle n’est pas capable de sortir 20 pages sans fautes ?** Ça peut sembler petit, voir même mesquin mais croyez-moi : si vous y trouvez un Anglais douteux voir de nombreuses fautes, mieux vaut commencer à courir !
 
 #### Des grandes promesses, quasi rien sur la technique
 
@@ -27,8 +27,8 @@ C’est probablement le plus fréquent, vu que la plupart des gens zappent la pa
 
 *   **Des grandes promesses vides** : « Le prochain système de paiement global »
 *   **Des affirmations non sourcées / pas vérifiables** : leur WP détaille leur prétendue vision, leur roadmap, les cas d’usages envisagés mais il n’y a RIEN sur la tech.
-*   **«On sera les premiers à X »**: cette phrase est un gyrophare à elle toute seule. Il n’y a aucune certitude dans le monde des cryptos.
-*   **Un WP fait par des marketeux** (pour des marketeux) : beaucoup de visuels , un design plutôt soigné mais dans l’ensemble c’est vide de tout sens.
+*   **« On sera les premiers à X »**: cette phrase est un gyrophare à elle toute seule. Il n’y a aucune certitude dans le monde des cryptos.
+*   **Un WP fait par des marketeux** (pour des marketeux) : beaucoup de visuels, un design plutôt soigné mais dans l’ensemble c’est vide de tout sens.
 
 ![stellar-wp](/img/2018/hitchhikerguide/stellar-wp.png)
 
@@ -36,7 +36,7 @@ Il est normal qu’un WP devienne technique à un moment donné (ici celui de St
 
 #### Le Darwin Awards des whitepapers
 
-Vous voulez un exemple du pire des whitepapers ? [Narbonne est un bon candidat](https://narbonne.io/Narbonne.pdf), je n’ai pas trouvé pire depuis l’avoir découvert il y a 7 mois. Sur les 22 pages du WP, environ 18 vous racontent des banalités sur le futur qui semblent être copiées/collées. L’ensemble du papier ne se mouille pas et reste très générique et simplement bizarre. Il y a tellement de choses à coté de la plaque, qu’il fallait choisir. Permettez moi de vous présenter le tableau comparant Narbonne, Wa**w**es et Ether**i**um. Oui vous avez bien lu, ils ont réussi à faire une faute sur « Ethereum » et « Waves ».
+Vous voulez un exemple du pire des whitepapers ? [Narbonne est un bon candidat](https://narbonne.io/Narbonne.pdf), je n’ai pas trouvé pire depuis l’avoir découvert il y a 7 mois. Sur les 22 pages du WP, environ 18 vous racontent des banalités sur le futur qui semblent être copiées/collées. L’ensemble du papier ne se mouille pas et reste très générique et simplement bizarre. Il y a tellement de choses à côté de la plaque, qu’il fallait choisir. Permettez-moi de vous présenter le tableau comparant Narbonne, Wa**w**es et Ether**i**um. Oui vous avez bien lu, ils ont réussi à faire une faute sur « Ethereum » et « Waves ».
 
 ![narbonne-wp](/img/2018/hitchhikerguide/narbonne-wp.png) Comparaison très subjective faite par Narbonne vs Ethereum et Waves
 
@@ -44,7 +44,7 @@ L’ensemble du tableau est démontable, ce qui en fait un bon exercice. Je vous
 
 *   “Bookkeeping at the blockchain” (impossible de traduire cette chose, désolé) — je suppose qu’il parle de traçabilité ? Il y a plein de projets qui s’en chargent sur Ethereum, comme par exemple [Request (REQ)](https://request.network/).
 *   “Mobile Banking”: un projet comme [OmiseGo](https://omisego.network/) fait déjà ça très bien.
-*   “AI, chatbot, voice control”: aucun intérêt pour le projet, qui est une infrastructure pour des banques. Par contre c’est des beaux buzzwords, ce qui explique sans doute leur présence.
+*   “AI, chatbot, voice control” : aucun intérêt pour le projet, qui est une infrastructure pour des banques. Par contre c’est des beaux buzzwords, ce qui explique sans doute leur présence.
 
 #### À quoi ressemble un bon whitepaper ?
 
@@ -72,7 +72,7 @@ En bref, **les TPS ça ne veut rien dire**. Alors pourquoi on voit ça partout 
 
 Et bien non ! Prenez deux processeurs : un monocœur, 32 bits, cadencé à 3.5 GHz et un autre octocœur (ça en fait huit, comme la pieuvre), 64 bits et cadencé à 2 GHz. Devinez lequel offre le plus de puissance ? Les performances du second écrasent celles du premier.
 
-C’est un peu la même chose avec les cryptos, sauf que cette fois-ci ce n’est pas qu’une question de puissance. Permettez moi un petit rappel en provenance de [mon précédent article](https://medium.com/@BBerdah/la-d%C3%A9centralisation-expliqu%C3%A9e-en-12-minutes-pour-monsieur-tout-le-monde-9804b056bad4) pour ceux qui l’auraient raté :
+C’est un peu la même chose avec les cryptos, sauf que cette fois-ci ce n’est pas qu’une question de puissance. Permettez-moi un petit rappel en provenance de [mon précédent article](https://medium.com/@BBerdah/la-d%C3%A9centralisation-expliqu%C3%A9e-en-12-minutes-pour-monsieur-tout-le-monde-9804b056bad4) pour ceux qui l’auraient raté :
 
 > Lorsque l’on fait le choix de décentraliser un système, ce n’est pas pour la performance. On le fait pour les avantages que la décentralisation apporte. Cela permet de créer de nouveaux types de services qu’on ne pouvait tout simplement pas créer sans décentraliser.
 
@@ -87,8 +87,8 @@ Imaginez Acoin, qui se targue de supporter 1 million de transactions par seconde
 **L’état de l’art actuel permet de supporter ~10 000 TPS pour les projets les plus avancés sans atteindre une centralisation excessive.** Tout coin qui promet plus fait des compromis ou manipule la vérité :
 
 *   **Des compromis sur la décentralisation.** Le meilleur exemple est bien sûr [EOS et ses 21 «block producers »](https://medium.com/@CryptoPeterG/eos-centralization-problem-bd7a392eeed2) qui font la pluie et le beau temps sur le réseau.
-*   **L’hypothèse de labo :** vous trouverez parfois des coins qui promettent des TPS de malade, dans les 100 000 ou plus et vous le prouvent avec un testnet. Seulement voilà il faut creuser un peu — le testnet n’a probablement que quelques noeuds. C’est facile de monter dans les TPS sur trois nœuds, mais ça devient de plus en plus dur quand les nœuds se multiplient.
-*   Ils s’appuient sur des **solutions jamais testées à l’échelle**. [NANO](https://nano.org/en) utilise un nouveau type de ledger appelé block-lattice ce qui lui permet de supporter jusqu’à 7 000 TPS en conditions idéales. [IOTA](https://www.iota.org/) utilise une autre solution radicalement nouvelle, le Tangle pour atteindre ~800 TPS aujourd’hui mais potentiellement beaucoup plus. Ces deux projets sont essentiellement l’état de l’art actuel en terme de vitesse : n’importe quel projet qui promet des TPS supérieures sans apporter une solution radicalement nouvelle se paye votre tête.
+*   **L’hypothèse de labo :** vous trouverez parfois des coins qui promettent des TPS de malade, dans les 100 000 ou plus et vous le prouvent avec un testnet. Seulement voilà il faut creuser un peu — le testnet n’a probablement que quelques nœuds. C’est facile de monter dans les TPS sur trois nœuds, mais ça devient de plus en plus dur quand les nœuds se multiplient.
+*   Ils s’appuient sur des **solutions jamais testées à l’échelle**. [NANO](https://nano.org/en) utilise un nouveau type de ledger appelé block-lattice ce qui lui permet de supporter jusqu’à 7 000 TPS en conditions idéales. [IOTA](https://www.iota.org/) utilise une autre solution radicalement nouvelle, le Tangle pour atteindre ~800 TPS aujourd’hui mais potentiellement beaucoup plus. Ces deux projets sont essentiellement l’état de l’art actuel en termes de vitesse : n’importe quel projet qui promet des TPS supérieures sans apporter une solution radicalement nouvelle se paye votre tête.
 *   **Ils comptent les mécanismes « off-chain »** dans leur calcul des TPS. Sans se perdre dans la technique, cet type de système conduit actuellement à une centralisation excessive. Retour au premier point.
 *   **Ils comptent des mécanismes nouveaux et pas encore implémentés**, comme le sharding. Ethereum, qui a l’une des communautés de développeur la mieux fournie, aura encore besoin d’une ou deux années pour l’implémenter à grande échelle. Comment des inconnus pourraient le faire en 6 mois ?
 *   Ils sortent tout simplement un nombre sans lien avec la réalité.
@@ -97,11 +97,11 @@ _Note : Les projets de cryptos commencent souvent de manière plutôt centralis
 
 Avant de conclure, on va faire un petit tour par le monde des ICOs : une jungle si dense qu’elle mérite sa propre section.
 
-### Les signals d’alarmes des ICOs
+### Les signaux d’alarmes des ICOs
 
 #### Des promos massives pour ceux qui arrivent tôt
 
-Une belle recette pour un coin qui se fait massacrer à l’entrée sur le marché, c’est des bonus massifs (>30%) pour les premiers investisseurs de l’ICO. Cela signifique que :
+Une belle recette pour un coin qui se fait massacrer à l’entrée sur le marché, c’est des bonus massifs (>30%) pour les premiers investisseurs de l’ICO. Cela signifie que :
 
 *   Comme les premiers ont eu les coins ristournés à 30% ou plus, cela **les pousse à les liquider au prix de vente de l’ICO (voir plus bas) le jour de la mise sur le marché** pour sécuriser autant de % de bénéfices gratuits et faciles, s’ils vendent assez vite.
 *   Pourquoi avoir besoin de pousser autant la vente ? Souvent, cela cache **une cryptomonnaie qui n’a que peu d’utilité** et n’a donc pas lieu d’être.
@@ -115,14 +115,14 @@ Même si vous n’êtes pas développeur, rien ne vous empêche d’aller faire 
 
 #### Une team à la ramasse
 
-Si vous envisager sérieusement d’investir dans une ICO, je vous conseille vivement de prendre 15 minutes pour faire vos recherches sur les membres de l’équipe les plus importants. Allez voir leur LinkedIn, leur Twitter, ce qu’ils ont fait avant, etc. Si vous trouvez des profils inactifs ou peu garnis, c’est généralement mauvais signe. Vous trouverez peut être des choses intéressantes, comme l’implication d’un des membres de l’équipe dans un autre projet qui s’est avéré être une arnaque.
+Si vous envisager sérieusement d’investir dans une ICO, je vous conseille vivement de prendre 15 minutes pour faire vos recherches sur les membres de l’équipe les plus importants. Allez voir leur LinkedIn, leur Twitter, ce qu’ils ont fait avant, etc. Si vous trouvez des profils inactifs ou peu garnis, c’est généralement mauvais signe. Vous trouverez peut-être des choses intéressantes, comme l’implication d’un des membres de l’équipe dans un autre projet qui s’est avéré être une arnaque.
 
 ![L’équipe de [BANANO](https://banano.co.in), un fork de NANO qui ne se prend pas trop au sérieux](/img/2018/hitchhikerguide/team.png))
 L’équipe de [BANANO](https://banano.co.in), un fork de NANO qui ne se prend pas trop au sérieux
 
-Une présence sociale limitée ou de mauvaise qualité c’est un signe inquiétant. Ces gars que vous vérifiez, ce sont les mêmes qui vont devoir promouvoir un projet, trouver des utilisateurs et des partenaires. S’ils ne sont pas capable de se marketer eux-même un minimum, c’est mal parti pour le projet.
+Une présence sociale limitée ou de mauvaise qualité c’est un signe inquiétant. Ces gars que vous vérifiez, ce sont les mêmes qui vont devoir promouvoir un projet, trouver des utilisateurs et des partenaires. S’ils ne sont pas capables de se marketer eux-mêmes un minimum, c’est mal parti pour le projet.
 
-Un autre grand classique c’est **le fameux prestigieux conseiller (advisor)… qui n’a en fait rien à voir avec le projet**. Si le projet de vos rêves prétend avoir comme conseiller une figure qui pèse, assurez vous de la réalité du lien entre les deux. Si vous voyez Satoshi comme conseiller, vous pouvez commencer à courir !
+Un autre grand classique c’est **le fameux prestigieux conseiller (advisor)… qui n’a en fait rien à voir avec le projet**. Si le projet de vos rêves prétend avoir comme conseiller une figure qui pèse, assurez-vous de la réalité du lien entre les deux. Si vous voyez Satoshi comme conseiller, vous pouvez commencer à courir !
 
 #### Une répartition des tokens plutôt gourmande
 
@@ -139,21 +139,21 @@ C’est normal que l’équipe garde une partie des tokens, et c’est même plu
 
 _Note : Il y a quelques mois, les gens ont commencé à faire entendre leur voix à Ripple précisément contre cette répartition gourmande. La team a donc mis en place un smart contract qui leur diffuse un milliard de tokens chaque mois,_ [_le reste (55 milliards de XRP) étant bloqué._](https://ripple.com/dev-blog/explanation-ripples-xrp-escrow/) _Ça ne résout rien au problème de centralisation._
 
-_En outre, je suis curieux de savoir ce que l’équipe peut bien faire de $ 500 millions chaque mois (XRP actuellement à $ ~0.5). C’est censé être pour leur développement et pourtant ça ne va pas bien vite ! Enfin,_ **_comme ces tokens sont verrouillés, ils ne sont pas comptabilisé dans le stock en circulation (~39 milliards de XRP)_** _ce qui peut artificiellement rassurer les investisseurs les plus naïfs. En réalité il y a 100 milliards de token XRP. Point de vue purement personnel : l’ensemble de l’opération ressemble à un coup marketing assez malin mais aussi malhonnête vis à vis des investisseurs._
+_En outre, je suis curieux de savoir ce que l’équipe peut bien faire de $ 500 millions chaque mois (XRP actuellement à $ ~0.5). C’est censé être pour leur développement et pourtant ça ne va pas bien vite ! Enfin,_ **_comme ces tokens sont verrouillés, ils ne sont pas comptabilisés dans le stock en circulation (~39 milliards de XRP)_** _ce qui peut artificiellement rassurer les investisseurs les plus naïfs. En réalité il y a 100 milliards de token XRP. Point de vue purement personnel : l’ensemble de l’opération ressemble à un coup marketing assez malin mais aussi malhonnête vis à vis des investisseurs._
 
 #### Conclusion
 
-J’ai écrit cet article pour vous apporter quelques astuces pour repérer les projets douteux. J’espère que vous avez désormais bien compris que **plus vous vous renseignez avant d’acheter, plus vous minimisez le risque**. Je vous conseille fortement de NE PAS ACHETER SUR UNE IMPULSION. Même si c’est le meilleur projet du monde, il sera encore là demain. Entre temps vous allez peut être trouver des points de contention.
+J’ai écrit cet article pour vous apporter quelques astuces pour repérer les projets douteux. J’espère que vous avez désormais bien compris que **plus vous vous renseignez avant d’acheter, plus vous minimisez le risque**. Je vous conseille fortement de NE PAS ACHETER SUR UNE IMPULSION. Même si c’est le meilleur projet du monde, il sera encore là demain. Entre temps vous allez peut-être trouver des points de contention.
 
 Pour finir, voici quelques petites astuces pour se faire une idée rapide sur un projet :
 
-*   Une recherche google `site:reddit.com "nom du coin (+scam/shitcoin/issues...)"`. S’il y a des choses douteuses sur le projet, elle seront probablement déjà documentée sur Reddit. Ne vous fiez pas au subreddit de la crypto en question, Reddit devient de plus en plus tribal.
-*   **Ne faites jamais confiance à une seule source, croisez les sans cesse !** Il y a des gens cupides qui promeuvent des projets douteux partout. Même un gars qui vous semble honnête et sympa (salut, tu veux mon 06 ?) peut tourner au vinaigre sans prévenir.
+*   Une recherche google `site:reddit.com "nom du coin (+scam/shitcoin/issues...)"`. S’il y a des choses douteuses sur le projet, elles seront probablement déjà documentée sur Reddit. Ne vous fiez pas au subreddit de la crypto en question, Reddit devient de plus en plus tribal.
+*   **Ne faites jamais confiance à une seule source, croisez-les sans cesse !** Il y a des gens cupides qui promeuvent des projets douteux partout. Même un gars qui vous semble honnête et sympa (salut, tu veux mon 06 ?) peut tourner au vinaigre sans prévenir.
 *   Il y a des services qui permettent à la communauté d’organiser sa petite enquête. [ICOCheck](https://icocheck.io/) semble plutôt fiable mais là encore ça ne vous dispense pas de faire votre propre recherche.
 
 Enfin le dernier point mais pas des moindres : **je vous recommande très fortement de ne pas mettre un centime dans une ICO lors de votre première année sur le marché.** La plupart échouent brutalement. Vous vous en sortirez bien mieux en vous contentant des cryptos top 25/50/100 en fonction du risque que vous voulez prendre. Même parmi celle-ci il y a plein d’arnaques alors soyez prudents.
 
-Amusez vous bien !
+Amusez-vous bien !
 
 PS : Si vous avez vos propres astuces que vous n’avez pas retrouvé dans cet article, n’hésitez pas à les partager en commentaire.
 
