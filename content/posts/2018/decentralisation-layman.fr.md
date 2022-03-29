@@ -143,7 +143,7 @@ Maintenant qu’on est au point sur les trois dimensions de la décentralisation
 
 Tous ces impératifs listés plus haut alourdissent et ralentissent le système, non ? Alors pourquoi s’embêter ? En effet, d’un point de vue de la pure efficacité technique, les systèmes centralisés sont loin devant les systèmes décentralisés.
 
-En réalité, c’est même bien pire que ça. C’est dur de trouver une comparaison qui a du sens. Je vais prendre le prix d’une puissance de calcul équivalente qui à le mérite d’être simple.
+En réalité, c’est même bien pire que ça. C’est dur de trouver une comparaison qui a du sens. Je vais prendre le prix d’une puissance de calcul équivalente qui a le mérite d’être simple.
 
 **Actuellement, le ratio entre le coût d’un calcul donné sur un système traditionnel (Amazon AWS) et le même calcul fait sur le Ethereum World Computer est d’environ un million.** Pas besoin de me faire confiance, [vérifiez par vous-même](https://www.youtube.com/watch?v=a-xHiI-G_CQ&t=251s). Ça fait peur hein ?
 
