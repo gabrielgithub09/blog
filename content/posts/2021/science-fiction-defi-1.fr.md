@@ -30,7 +30,7 @@ Le format est aussi ouvert que possible — vous pouvez me soumettre vos intitul
 Manu commence fort avec un scénario fascinant pour réfléchir sur l'avenir des personal tokens :
 
 > En 2040, une énième crise financière amène les bourses à des plus bas historiques. Seul le HSE (human stock exchange) voit ses cours atteindre des sommets. Les " red eyes" comme on surnomme, ceux qui ont décidé de se faire tokeniser attirent de plus en plus les investisseurs.
-Simple avantage culturel ou miracle économique ? En tout cas la cotation humaine attire de nombreux adeptes.
+Simple avantage culturel ou miracle économique ? En tout cas, la cotation humaine attire de nombreux adeptes.
 
 >Felix est un agent commercial chez Lamborghini : grâce à ses talents de vendeur, il va goûter aux joies de la réussite, mais à quel prix ? Va t-il accepter les sacrifices et désillusions infligés aux "red eyes" ?
 
