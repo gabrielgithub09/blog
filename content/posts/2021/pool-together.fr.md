@@ -73,7 +73,7 @@ En DeFi, il y a différentes sources de rendements, par exemple un possesseur d�
 2. La pool (jeu de smart contracts) déploie les actifs dans différentes stratégies afin de produire un rendement. Le rendement est collecté et sert à alimenter le prix des gagnants.
 3. Chaque USDC déposé dans la pool (⇒ PTaUSDC) correspond à un ticket de loterie potentiellement gagnant. Tous les jours, un tirage a lieu grâce à un mécanisme d’aléatoire auditable (ChainLink VRF) pour déterminer les nombreux gagnants, avec initialement 3 échelles de prix : 10 PTaUSDC, 100 PTaUSDC ou bien 2500 PTaUSDC le jackpot.
 
-C’est cette infrastructure qui produit un rendement - et met seulement le rendement en jeu qui permet de qualifier Pool Together de **loterie** **sans perte**. À tout moment, **le joueur peut arrêter de jouer : il récupérera au minimum son capital initial engagé**, s’il n’a jamais gagné la loterie, ou alors plus.
+C’est cette infrastructure qui produit un rendement - et met seulement le rendement en jeu qui permet de qualifier Pool Together de **loterie** **sans perte**. À tout moment, **le joueur peut arrêter de jouer : il récupérera au minimum son capital initial engagé**, s’il n’a jamais gagné à la loterie, ou alors plus.
 
 Si on veut être très précis, le seul coût de Pool Together est le “opportunity cost of capital” : l’opportunité potentiellement perdue sur le capital mobilisé, qui pourrait théoriquement produire un meilleur rendement autrement.
 
