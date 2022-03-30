@@ -91,7 +91,7 @@ En effet, l'émergence de la **finance décentralisée** (DeFi) a complètement 
 
 Alors que les valeurs de notre système politique sont des promesses qui doivent être activement tenues, les valeurs de la DeFi sont appliquées au niveau du code : **elles sont le résultat du fonctionnement normal du système et ne peuvent être violées**.
 
-La DeFi permet donc aux individus de posséder et d'échanger des biens sans avoir besoin d'un intermédiaire - c'était une forme de pièce manquante à la sauvegarde de la souveraineté. Grâce à la DeFi, tout le monde peut accéder à des services financiers d'élite plus résistants que ceux du monde classiques rendus possibles grâce à une mixture de sociétés privés et de cadres juridiques.
+La DeFi permet donc aux individus de posséder et d'échanger des biens sans avoir besoin d'un intermédiaire - c'était une forme de pièce manquante à la sauvegarde de la souveraineté. Grâce à la DeFi, tout le monde peut accéder à des services financiers d'élite plus résistants que ceux du monde classique rendus possibles grâce à une mixture de sociétés privées et de cadres juridiques.
 
 Si vous n'en avez jamais entendu parler, vous êtes au bon endroit ! **[Cette introduction]({{< relref path="/content/learndefi/_index.fr.md" >}})** vous aidera à démarrer, et vous trouverez de nombreux articles traitant de la DeFi sur ce blog.
 
