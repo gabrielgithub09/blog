@@ -196,7 +196,7 @@ Vous pouvez également examiner la répartition des garanties afin d'évaluer l'
 
 - __🔮Probabilité__ : Dépend de la stratégie de cotation des garanties et de l'appétit pour le risque
 - __🔥Potentielle perte de fonds__ : Si un token dangereux est accepté en garantie, le marché monétaire peut se retrouver sous-collatéralisé, voire drainé. Cream, par exemple, accepte le COVER comme garantie. Le token a déjà été frappé trois fois à l'infini, exposant Cream à un risque supplémentaire.[^covershitcoin]
-- __❌C'est déjà arrivé ?__ certains tokens ont subit une émission infinie, comme COVER. Mais ils n'était pas utilisés comme collatéraux sur un marché monétaire à l'époque.
+- __❌C'est déjà arrivé ?__ certains tokens ont subi une émission infinie, comme COVER. Mais ils n'étaient pas utilisés comme collatéraux sur un marché monétaire à l'époque.
 
 Je ne m'étendrai pas davantage sur ce sujet, car la documentation d'Aave sur les risques est très bien faite - consultez [la section sur les paramètres de risque](https://docs.aave.com/risk/asset-risk/risk-parameters) pour plus d'informations.
 
@@ -383,7 +383,7 @@ De telles attitudes m'ont donné encore plus envie de faire avancer cet article.
 Je m'attends déjà à de fortes réactions, alors permettez-moi d'ajouter quelques sujets supplémentaires qui ne sont pas abordés ici :
 1. Bien que nous soyons allés assez loin, nous n'avons pas discuté du processus de tokenisation : le processus utilisé par le protocole pour représenter les avoirs déposés. Sur ce front, **Compound et Cream utilisent tous deux une approche archaïque** qui a été dépassée sur tous les fronts par Aave avec la première version des aTokens au début de 2020 [^aTokenMasterRace] Aave V2 a encore amélioré le processus de tokenisation.
 2. Cream en soi est un petit marché, mais **par le biais de l'IronBank, d'autres protocoles peuvent emprunter à Cream**. Il est encore plus difficile d'évaluer le risque sur un tel marché - et il a été exclu de cette analyse. Pour en savoir plus sur le risque réel déjà posé et manifesté par une telle approche, vous pouvez consulter le [dernier Rekt on Alpha Homora](https://www.rekt.news/alpha-finance-rekt/).
-3. Bien que MakerDAO fournisse un service fonctionnellement équivalent au prêt, le processus est sensiblement différent puisque chaque emprunteur frappe le DAI. Par souci de simplicité, j'ai donc exclu MakerDAO de cette analyse, à part pour pour quelques exemples instructifs.
+3. Bien que MakerDAO fournisse un service fonctionnellement équivalent au prêt, le processus est sensiblement différent puisque chaque emprunteur frappe le DAI. Par souci de simplicité, j'ai donc exclu MakerDAO de cette analyse, à part pour quelques exemples instructifs.
 4. Je n'ai aucune affiliation avec Aave, Compound, Cream ou tout autre marché monétaire. Je possède cependant des tokens AAVE (achetés à mes frais bien sûr) stakés dans le Safety Module. Tout le contenu hébergé sur mon blog est rendu accessible gratuitement - je suis le seul éditeur.
 
 J'espère que cet article vous a aidé à mieux comprendre l'ampleur des risques sur les marchés monétaires. Je tiens à souligner une fois de plus qu'il n'est ni exhaustif, ni d'une vérité absolue, mais je suis fermement convaincu qu'il apporte des contributions claires et utiles pour faire en sorte que les risques sur DeFi soient largement compris, mieux que ce qui existe actuellement.
