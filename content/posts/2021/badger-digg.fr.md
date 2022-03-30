@@ -1,6 +1,6 @@
 ---
 title: "L'histoire de BadgerDAO : une intro via DIGG"
-description: "BadgerDAO se trouve en première ligne sur deux thèmes très tendance : le gestion d'actifs en DeFi (vaults/setts) & BTC sur Ethereum. Voyons donc qu'implique le projet et quel est son plan."
+description: "BadgerDAO se trouve en première ligne sur deux thèmes très tendance : le gestion d'actifs en DeFi (vaults/setts) & BTC sur Ethereum. Voyons donc ce qu'implique le projet et quel est son plan."
 date: '2021-01-30T01:13:50.191Z'
 categories: [🌌 DeFi, 🔮 Découverte]
 tags: [DeFi, Ethereum, Finance décentralisées, Badger, BadgerDAO, DIGG, monaies élastiques, wBTC, renBTC, Curve BTC pools, gitcoin, Meme, vault, setts, farming, liquidity providing, LP, BTC, BTC on Ethereun, platformisation de la DeFi]
@@ -71,7 +71,7 @@ Après discussion au sein de la communauté, il a été décidé de partir avec 
 
 ![wen-digg](/img/2021/badger-digg/wen-digg.jpeg/ "Wen DIGG meme contest")
 
-Badger étant Badger, la machine à hype était bien sûr au point avec un concours de mèmes "Wen DIGG ?" pour s'assurer que tout le monde soit au courant. 
+Badger étant Badger, la machine à hype était bien sûr au point avec un concours de memes "Wen DIGG ?" pour s'assurer que tout le monde soit au courant. 
 
 Alors sans plus attendre, plongeons dans le vif du sujet : les rebases.
 
