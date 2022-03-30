@@ -205,7 +205,7 @@ Enfin pour Uniswap, la concurrence est encore plus vive. Le protocole évolue fa
 
 Sur les trois fronts, je pense que la situation forcera Uniswap, Maker et Yearn à se renouveler. Néanmoins avec le rythme de l'industrie, l'étau se resserre et leurs alternatives plus ouvertes, efficaces et synergiques gagnent rapidement du terrain. 
 
-Alors que les DAO des trois protocoles se sont désynchronisées de leurs utilisateurs, le meilleur intérêt de ceux-ci leur a été rappelé de la manière la plus simple et efficace que l'on connaisse : avec des mouvements de capitaux conséquents. J'ai hâte de voir ce qui arrive ensuite !
+Alors que les DAO des trois protocoles se sont désynchronisés de leurs utilisateurs, le meilleur intérêt de ceux-ci leur a été rappelé de la manière la plus simple et efficace que l'on connaisse : avec des mouvements de capitaux conséquents. J'ai hâte de voir ce qui arrive ensuite !
 
 _🙏 Un grand merci à HHK, Charles, Thomas, Erwan, [PhilH](https://twitter.com/phil_h) & FrenchTony pour leur relecture attentive de l'édition française de cet article et sa traduction en Anglais._
 
