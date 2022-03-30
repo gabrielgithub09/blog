@@ -15,7 +15,7 @@ Depuis les premiers jours de Curve Finance et du lancement du token CRV, on atte
 
 À première vue, la question est plutôt simple et directe :
 
-1. Curve est le plus grand échange décentralisé de la DeFi en terme de valeur totale déposée.
+1. Curve est le plus grand échange décentralisé de la DeFi en termes de valeur totale déposée.
 2. Le token CRV donne accès à 1/ une part des frais collectés 2/ **une capacité de vote pour influencer l'émission de CRV future.**
 3. => Avoir le contrôle d'une grande capacité de vote VeCRV permet de **grandement faciliter le développement d'une pool Curve**, puisque cela offre la possibilité de voter pour des rendements CRV importants sur la pool en question.
 
@@ -98,7 +98,7 @@ Pour la mobiliser, le déposant doit "vote lock" ses CVX en vlCVX. Ils sont verr
 </table>
 
 
-Outre la rentabilité accrue du CVX pour influencer Curve, l'engagement est également moins conséquent que sur VeCRV. Pour la table de comparaison, je suis parti sur une assomption de vérouillage 4 ans sur CRV. L'écart est encore plus en faveur de vlCVX pour des engagements moins longs.
+Outre la rentabilité accrue du CVX pour influencer Curve, l'engagement est également moins conséquent que sur VeCRV. Pour la table de comparaison, je suis parti sur une assomption de verouillage 4 ans sur CRV. L'écart est encore plus en faveur de vlCVX pour des engagements moins longs.
 
 {{< notice warning >}}
 Le vlCVX a malgré tout un inconvénient : à l'issue des 16 semaines de verrouillage initiales, des pénalités sont appliquées aux déposants si les tokens restent inactifs pendant plus de 4 semaines.
@@ -191,7 +191,7 @@ En quelques semaines, la pool MIM a ainsi explosé sur Curve, à tous les niveau
 
 * Les rendements en CRV ont été vraiment excellents certaines semaines
 * Ce qui a attiré de la liquidité et du volume, réduisant légèrement le rendement mais augmentant la capacité à booster la pool
-* Grâce à cette dynamique, MIM est désormais la cinquième pool Curve en terme de volume, avec un beau ratio volume/TVL.
+* Grâce à cette dynamique, MIM est désormais la cinquième pool Curve en termes de volume, avec un beau ratio volume/TVL.
 
 ![curve-pools](/img/2021/crv-wars/crv-pools.png "Aperçu des plus grandes pools sur Curve (volume)")
 
@@ -255,7 +255,7 @@ Cette situation ne fait que très peu de sens : **Sushi est loin d'être optimal
 
 ![cvxcrv-pool](/img/2021/crv-wars/cvxcrv-pool.png "Pool (factory) cvxCRV/CRV")
 
-Sans avoir d'incitation de la part de Convex ou Curve, la pool a déjà vu un volume important transiter grâce aux agrégateurs de DEX comme Paraswap. Rapidement, il y a eu un vote pour y ajouter la gauge CRV qui est passé - et cette pool est désormais farmable directement via Convex.
+Sans avoir d'incitation de la part de Convex ou Curve, la pool a déjà vu un volume important transiter grâce aux agrégateurs de DEX comme Paraswap. Rapidement, il y a eu un vote pour y ajouter la gauge CRV qui est passée - et cette pool est désormais farmable directement via Convex.
 
 La pool reste légèrement déséquilibrée (il y a tant à faire avec des CRV, qui deviennent de plus en plus rares…) mais elle apporte déjà une alternative compétitive à la pool SLP cvxCRV/CRV avec encore une fraction de sa liquidité. 
 
