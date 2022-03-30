@@ -56,7 +56,7 @@ Néanmoins, le parallèle s'arrête ici car bien qu'à haut niveau le processus 
 
 Tout d'abord, le nerf de la guerre : les frais d'emprunt. À ce sujet et outre des coûts absolus d'emprunt très bas, Liquity a le mérite d'apporter de **la prédictibilité et de la clarté.** En effet, là où Maker, Aave et Compound par exemple pratiquent un taux annuel variable (via gouvernance pour Maker, conditions du marché pour Aave/Compound), **chez Liquity le taux est fixé et annoncé clairement à l'emprunt**.
 
-En outre, chez Liquity les frais se paient en une fois, lors de la mise en place de l'emprunt : ce sont les “**initiation fees”, par défaut à 0.5%. Ce sont les seul frais que l'emprunteur paie, même s'il garde son trove pendant des années.**
+En outre, chez Liquity les frais se paient en une fois, lors de la mise en place de l'emprunt : ce sont les “**initiation fees”, par défaut à 0.5%. Ce sont les seuls frais que l'emprunteur paie, même s'il garde son trove pendant des années.**
 
 ![liquity-trove](/img/2021/liquity-protocol/trove.png "Ouverture d'un trove sur Liquity")
 
@@ -85,7 +85,7 @@ Bien que le concept de backstop ne soit pas implémenté nativement sur les autr
 
 Je vous le disais plus haut : Liquity n'a pas de gouvernance. Le système s'ajuste automatiquement en fonction de différents paramètres observés sur les marchés comme on le verra plus bas. Mais alors, à quoi sert LQTY ?
 
-Dans sa forme la plus basique, c'est un mécanisme comptable qui permet d'allouer les revenus générés par le protocole. LQTY peut être staké pour obtenir des LUSD correspondant à sa part des frais d'initiation et des ETH en provenance des frais de redemption :
+Dans sa forme la plus basique, c'est un mécanisme comptable qui permet d'allouer les revenus générés par le protocole. LQTY peut être staké pour obtenir des LUSD correspondant à sa part des frais d'initiation et des ETH en provenance des frais de rédemption :
 
 
 ![lqty-staking-returns](/img/2021/liquity-protocol/lqty-staking-returns.png "Revenus pour les stakers LQTY")
@@ -198,7 +198,7 @@ Cette approche permet à Liquity d'**aller encore plus loin que les autres proto
 
 ## Liquity et LUSD dans l'écosystème DeFi
 
-J'ai écrit cet article car je considère Liquity comme une primitive DeFi essentielle et j'aimerais vous aider à comprendre pourquoi. Je ne suis pas le seul à saisir ce qu'il se joue ici, de nombreux protocoles s'intéressent à Liquity et au LUSD d'une façon ou d'autre autre. Voyons ça.
+J'ai écrit cet article car je considère Liquity comme une primitive DeFi essentielle et j'aimerais vous aider à comprendre pourquoi. Je ne suis pas le seul à saisir ce qu'il se joue ici, de nombreux protocoles s'intéressent à Liquity et au LUSD d'une façon ou d'une autre. Voyons ça.
 
 
 ### Intégrations DeFi Liquity
