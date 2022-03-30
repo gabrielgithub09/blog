@@ -47,7 +47,7 @@ Avant de pouvoir participer à la communauté et gagner du 🌾 blé, il faut se
 5. Toujours en DM avec `@Déméter`, tu peux désormais enregistrer ton wallet pour devenir `@🐤Membre DeFi France` et pouvoir participer à la gouvernance.
 
 {{< notice tip >}}
-Si tu ne reçois pas les DM de `@Serveur Captcha Bot` ou `@Déméter`, vérifie les réglages vie-privée Discord. Pour que les bots puissent te contacter, il faut permettre les DMs envoyés par membres du serveur DeFi France.
+Si tu ne reçois pas les DM de `@Serveur Captcha Bot` ou `@Déméter`, vérifie les réglages vie-privée Discord. Pour que les bots puissent te contacter, il faut permettre les DMs envoyés par les membres du serveur DeFi France.
 {{< /notice >}}
 
 Tu es désormais `@🐤Membre DeFi France` et éligible pour les moissons en 🌾 blé. Voyons donc comment le système fonctionne.
