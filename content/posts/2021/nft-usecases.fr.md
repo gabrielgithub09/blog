@@ -27,7 +27,7 @@ Les tokens non-fongibles sont un comme un nouveau type de lego utilisé pour rep
 
 Par exemple en DeFi, un échange inter-actifs sur Curve implique un NFT de "reçu" et plus récemment Uniswap envisage des tokens NFTs pour représenter les positions apporteurs de liquidité (et leur nombreux paramètres) pour la V3.
 
-Toutes ces différentes utilisations de "la technologie NFT" sont pertinentes. Néanmoins pour aujourd'hui, je vais me concentrer sur les utilisations artistiques et communautaires des NFTs.
+Toutes ces différentes utilisations de la "technologie NFT" sont pertinentes. Néanmoins pour aujourd'hui, je vais me concentrer sur les utilisations artistiques et communautaires des NFTs.
 
 ---
 
@@ -110,7 +110,7 @@ Pour un tour d'horizon plus exhaustif du monde des NFTs, je vous invite chaudeme
 
 ### Les services de création et de vente
 
-La méthode la plus simple pour acquérir ses premiers NFTs reste encore de les acheter. C'est **loin d'être la seule méthode,** comme nous le verrons plus bas mais avant cela, voyons rapidement les principales plateformes et leur modalités.
+La méthode la plus simple pour acquérir ses premiers NFTs reste encore de les acheter. C'est **loin d'être la seule méthode,** comme nous le verrons plus bas mais avant cela, voyons rapidement les principales plateformes et leurs modalités.
 
 Le site le plus couramment utilisé est probablement [OpenSea](https://opensea.io/), qui permet des ventes directes ou aux enchères. [Rarible](https://rarible.com/) est une autre option facilement accessible et potentiellement plus optimisée pour permettre aux créateurs d'émerger. On le décrit parfois comme le “Etsy” des NFTs. 
 
