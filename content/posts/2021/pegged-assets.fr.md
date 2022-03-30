@@ -73,7 +73,7 @@ On a ainsi observé une véritable explosion de l'émission et de l'utilisation 
 
 Pour n'en citer qu'un, parlons un peu[ d'Alchemix](https://alchemix.fi/), un nouveau service d'actif synthétique qui permet **des emprunts sécurisés par votre futur rendement**. Je m'explique : avec Alchemix, tout débute avec un actif stable qui produit un rendement. Ils ont choisi le yDAI pour commencer (DAI productif grâce au vault Yearn).
 
-L'utilisateur donc commencer par déposer des yDAI. Il peut ensuite **renoncer à son futur rendement** pour emprunter jusqu'à 50% de la valeur déposée. Son prêt est **remboursé automatiquement grâce aux intérêts produits par le yDAI**. En outre, comme il a accès à 50% de la valeur déposée immédiatement (emprunté en alUSD), il peut la mettre au travail pour augmenter le retour de l'ensemble de la stratégie.
+L'utilisateur commence donc par déposer des yDAI. Il peut ensuite **renoncer à son futur rendement** pour emprunter jusqu'à 50% de la valeur déposée. Son prêt est **remboursé automatiquement grâce aux intérêts produits par le yDAI**. En outre, comme il a accès à 50% de la valeur déposée immédiatement (emprunté en alUSD), il peut la mettre au travail pour augmenter le retour de l'ensemble de la stratégie.
 
 Ce type de produits permet un arbitrage temporel intéressant et entraîne une demande encore plus conséquente pour les stablecoins : lors du lancement d'Alchemix, les dépôts dans le vault yDAI ont décollé au point d'atteindre la capacité maximale pendant un moment.
 
@@ -180,7 +180,7 @@ Pour finir cet article que j'espère instructif, je vous propose d'analyser un s
 1. **Collatéraux trustless**: Jusqu'à présent, RAI n'accepte que ETH en collatéral. Cela signifie donc que 100% des collatéraux du système ne sont pas censurables.
 2. **Au-delà du dollar** : l'actif produit par le système ne suit pas le dollar (qui n'est lui-même pas vraiment stable). Le prix du RAI est déterminé par un consensus établi par le marché.
 3. **Le Money God** : tout comme les stablecoins algorithmiques, le système réagit à différents paramètres observés. Néanmoins tout comme Maker, ici ce sont les utilisateurs eux-mêmes qui frappent directement le RAI.
-4. **Dégouvernance** : le token du système Reflexer (FLX), qui sera distribué aux utilisateurs a pour vocation de servir à décentraliser progressivement la gouvernance.
+4. **Dégouvernance** : le token du système Reflexer (FLX), qui sera distribué aux utilisateurs, a pour vocation de servir à décentraliser progressivement la gouvernance.
 
 Pas de panique si vous n'avez pas immédiatement compris pourquoi ce système est innovant et significatif, on va explorer chacun de ces points plus en détail.
 
