@@ -11,7 +11,7 @@ tags: [ICO, scam, Ethereum, Décentralisation, EcoCrypto]
 
 ![](/img/2018/hitchhikerguide/cover.jpeg)
 
-Vous voulez investir dans une ICO, or acheter des cryptomonnaies déjà sur le marché ? Bienvenue à bord ! Avant de vous mettre à l’eau, je vous propose un petit guide pour vous aider à naviguer le Far-Ouest : il inclut des astuces et des exemples pris sur des projets existants. C’est en quelque sorte une synthèse de ce que j’ai appris de mes expériences (et échecs), et de mes échanges la communauté.
+Vous voulez investir dans une ICO, or acheter des cryptomonnaies déjà sur le marché ? Bienvenue à bord ! Avant de vous mettre à l’eau, je vous propose un petit guide pour vous aider à naviguer le Far-Ouest : il inclut des astuces et des exemples pris sur des projets existants. C’est en quelque sorte une synthèse de ce que j’ai appris de mes expériences (et échecs), et de mes échanges avec la communauté.
 
 ### Le Whitepaper est TOUJOURS la source la plus intéressante
 
@@ -19,7 +19,7 @@ Les whitepapers (WP pour le reste de l’article) peuvent faire peur. Bien que c
 
 #### Un Anglais irréprochable
 
-Surprenant ? Pas vraiment si vous considérez la chose sous cet angle : **comment faire confiance à une équipe pour un développer projet décentralisé de grande envergure si elle n’est pas capable de sortir 20 pages sans fautes ?** Ça peut sembler petit, voir même mesquin mais croyez-moi : si vous y trouvez un Anglais douteux voir de nombreuses fautes, mieux vaut commencer à courir !
+Surprenant ? Pas vraiment si vous considérez la chose sous cet angle : **comment faire confiance à une équipe pour développer un projet décentralisé de grande envergure si elle n’est pas capable de sortir 20 pages sans fautes ?** Ça peut sembler petit, voire même mesquin mais croyez-moi : si vous y trouvez un Anglais douteux voir de nombreuses fautes, mieux vaut commencer à courir !
 
 #### Des grandes promesses, quasi rien sur la technique
 
@@ -90,7 +90,7 @@ Imaginez Acoin, qui se targue de supporter 1 million de transactions par seconde
 *   **L’hypothèse de labo :** vous trouverez parfois des coins qui promettent des TPS de malade, dans les 100 000 ou plus et vous le prouvent avec un testnet. Seulement voilà il faut creuser un peu — le testnet n’a probablement que quelques nœuds. C’est facile de monter dans les TPS sur trois nœuds, mais ça devient de plus en plus dur quand les nœuds se multiplient.
 *   Ils s’appuient sur des **solutions jamais testées à l’échelle**. [NANO](https://nano.org/en) utilise un nouveau type de ledger appelé block-lattice ce qui lui permet de supporter jusqu’à 7 000 TPS en conditions idéales. [IOTA](https://www.iota.org/) utilise une autre solution radicalement nouvelle, le Tangle pour atteindre ~800 TPS aujourd’hui mais potentiellement beaucoup plus. Ces deux projets sont essentiellement l’état de l’art actuel en termes de vitesse : n’importe quel projet qui promet des TPS supérieures sans apporter une solution radicalement nouvelle se paye votre tête.
 *   **Ils comptent les mécanismes « off-chain »** dans leur calcul des TPS. Sans se perdre dans la technique, cet type de système conduit actuellement à une centralisation excessive. Retour au premier point.
-*   **Ils comptent des mécanismes nouveaux et pas encore implémentés**, comme le sharding. Ethereum, qui a l’une des communautés de développeur la mieux fournie, aura encore besoin d’une ou deux années pour l’implémenter à grande échelle. Comment des inconnus pourraient le faire en 6 mois ?
+*   **Ils comptent des mécanismes nouveaux et pas encore implémentés**, comme le sharding. Ethereum, qui a l’une des communautés de développeurs la mieux fournie, aura encore besoin d’une ou deux années pour l’implémenter à grande échelle. Comment des inconnus pourraient le faire en 6 mois ?
 *   Ils sortent tout simplement un nombre sans lien avec la réalité.
 
 _Note : Les projets de cryptos commencent souvent de manière plutôt centralisée. Ce qui importe c’est que l’équipe en soit consciente et aie un plan pour ouvrir progressivement le réseau. Par exemple, maintenant que l’infrastructure de NEO commence à être bien établie,_ [_l’équipe avance vers de plus en plus de décentralisation_](https://neo.org/blog/details/4089)_._
@@ -105,7 +105,7 @@ Une belle recette pour un coin qui se fait massacrer à l’entrée sur le march
 
 *   Comme les premiers ont eu les coins ristournés à 30% ou plus, cela **les pousse à les liquider au prix de vente de l’ICO (voir plus bas) le jour de la mise sur le marché** pour sécuriser autant de % de bénéfices gratuits et faciles, s’ils vendent assez vite.
 *   Pourquoi avoir besoin de pousser autant la vente ? Souvent, cela cache **une cryptomonnaie qui n’a que peu d’utilité** et n’a donc pas lieu d’être.
-*   Même si par miracle les deux situations au décrites plus haut n’ont pas lieu, il y un autre problème cette fois-ci garanti : les bonus attirent les baleines, les mecs qui possèdent des millions (de $$) d’une monnaie. Ces mêmes baleines posent de sérieux **problème pour la gouvernance et la décentralisation du projet**.
+*   Même si par miracle les deux situations décrites plus haut n’ont pas lieu, il y un autre problème cette fois-ci garantit : les bonus attirent les baleines, les mecs qui possèdent des millions (de $$) d’une monnaie. Ces mêmes baleines posent de sérieux **problème pour la gouvernance et la décentralisation du projet**.
 
 #### Pas de produit, pas de démo, pas de code
 
@@ -115,7 +115,7 @@ Même si vous n’êtes pas développeur, rien ne vous empêche d’aller faire 
 
 #### Une team à la ramasse
 
-Si vous envisager sérieusement d’investir dans une ICO, je vous conseille vivement de prendre 15 minutes pour faire vos recherches sur les membres de l’équipe les plus importants. Allez voir leur LinkedIn, leur Twitter, ce qu’ils ont fait avant, etc. Si vous trouvez des profils inactifs ou peu garnis, c’est généralement mauvais signe. Vous trouverez peut-être des choses intéressantes, comme l’implication d’un des membres de l’équipe dans un autre projet qui s’est avéré être une arnaque.
+Si vous envisagez sérieusement d’investir dans une ICO, je vous conseille vivement de prendre 15 minutes pour faire vos recherches sur les membres de l’équipe les plus importants. Allez voir leur LinkedIn, leur Twitter, ce qu’ils ont fait avant, etc. Si vous trouvez des profils inactifs ou peu garnis, c’est généralement mauvais signe. Vous trouverez peut-être des choses intéressantes, comme l’implication d’un des membres de l’équipe dans un autre projet qui s’est avéré être une arnaque.
 
 ![L’équipe de [BANANO](https://banano.co.in), un fork de NANO qui ne se prend pas trop au sérieux](/img/2018/hitchhikerguide/team.png))
 L’équipe de [BANANO](https://banano.co.in), un fork de NANO qui ne se prend pas trop au sérieux
@@ -143,19 +143,19 @@ _En outre, je suis curieux de savoir ce que l’équipe peut bien faire de $ 500
 
 #### Conclusion
 
-J’ai écrit cet article pour vous apporter quelques astuces pour repérer les projets douteux. J’espère que vous avez désormais bien compris que **plus vous vous renseignez avant d’acheter, plus vous minimisez le risque**. Je vous conseille fortement de NE PAS ACHETER SUR UNE IMPULSION. Même si c’est le meilleur projet du monde, il sera encore là demain. Entre temps vous allez peut-être trouver des points de contention.
+J’ai écrit cet article pour vous apporter quelques astuces pour repérer les projets douteux. J’espère que vous avez désormais bien compris que **plus vous vous renseignez avant d’acheter, plus vous minimiser le risque**. Je vous conseille fortement de NE PAS ACHETER SUR UNE IMPULSION. Même si c’est le meilleur projet du monde, il sera encore là demain. Entre-temps vous allez peut-être trouver des points de contention.
 
 Pour finir, voici quelques petites astuces pour se faire une idée rapide sur un projet :
 
-*   Une recherche google `site:reddit.com "nom du coin (+scam/shitcoin/issues...)"`. S’il y a des choses douteuses sur le projet, elles seront probablement déjà documentée sur Reddit. Ne vous fiez pas au subreddit de la crypto en question, Reddit devient de plus en plus tribal.
+*   Une recherche google `site:reddit.com "nom du coin (+scam/shitcoin/issues...)"`. S’il y a des choses douteuses sur le projet, elles seront probablement déjà documentées sur Reddit. Ne vous fiez pas au subreddit de la crypto en question, Reddit devient de plus en plus tribal.
 *   **Ne faites jamais confiance à une seule source, croisez-les sans cesse !** Il y a des gens cupides qui promeuvent des projets douteux partout. Même un gars qui vous semble honnête et sympa (salut, tu veux mon 06 ?) peut tourner au vinaigre sans prévenir.
 *   Il y a des services qui permettent à la communauté d’organiser sa petite enquête. [ICOCheck](https://icocheck.io/) semble plutôt fiable mais là encore ça ne vous dispense pas de faire votre propre recherche.
 
-Enfin le dernier point mais pas des moindres : **je vous recommande très fortement de ne pas mettre un centime dans une ICO lors de votre première année sur le marché.** La plupart échouent brutalement. Vous vous en sortirez bien mieux en vous contentant des cryptos top 25/50/100 en fonction du risque que vous voulez prendre. Même parmi celle-ci il y a plein d’arnaques alors soyez prudents.
+Enfin le dernier point mais pas des moindres : **je vous recommande très fortement de ne pas mettre un centime dans une ICO lors de votre première année sur le marché.** La plupart échouent brutalement. Vous vous en sortirez bien mieux en vous contentant des cryptos top 25/50/100 en fonction du risque que vous voulez prendre. Même parmi celles-ci il y a plein d’arnaques alors soyez prudents.
 
 Amusez-vous bien !
 
-PS : Si vous avez vos propres astuces que vous n’avez pas retrouvé dans cet article, n’hésitez pas à les partager en commentaire.
+PS : Si vous avez vos propres astuces que vous n’avez pas retrouvées dans cet article, n’hésitez pas à les partager en commentaire.
 
 {{< notice tip >}}
 
