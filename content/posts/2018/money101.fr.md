@@ -11,7 +11,7 @@ tags: [bitcoin, argent, monnaie blockchain, cryptomonnaie, EcoCrypto]
 
 <span style="font-weight: 400;">La monnaie est un élément essentiel de nos sociétés : un petit changement dans ses mécanismes sous-jacents peut avoir des répercussions qui dépassent très largement le champ de l’économie. Une meilleure compréhension des mécanismes monétaires permet ainsi de mieux cerner de nombreux sujets connexes allant de l’économie politique aux cryptomonnaies.</span>
 
-<span style="font-weight: 400;">La monnaie un sujet complexe, plus encore dans notre monde moderne quand on considère tous les mécanismes alambiqués qui sont venus se greffer dessus à tous les niveaux : création monétaire, banques centrales, l’inflation… Dans cet article, on va revenir sur les bases car elles sont nécessaires pour comprendre tout le reste : qu’est-ce qu’une monnaie ? Pourquoi en est-on venu à utiliser des monnaies ? Et quelles formes peuvent prendre ces monnaies ?</span>
+<span style="font-weight: 400;">La monnaie est un sujet complexe, plus encore dans notre monde moderne quand on considère tous les mécanismes alambiqués qui sont venus se greffer dessus à tous les niveaux : création monétaire, banques centrales, inflation… Dans cet article, on va revenir sur les bases car elles sont nécessaires pour comprendre tout le reste : qu’est-ce qu’une monnaie ? Pourquoi en est-on venu à utiliser des monnaies ? Et quelles formes peuvent prendre ces monnaies ?</span>
 
 <span style="font-weight: 400;">C’est parti pour une aventure avec des histoires anciennes mais encore dominantes à déconstruire et de nouvelles nécessaires pour  expliquer des mécanismes très complexes.</span>
 
@@ -66,7 +66,7 @@ tags: [bitcoin, argent, monnaie blockchain, cryptomonnaie, EcoCrypto]
 
 <span style="font-weight: 400;">Pourtant, tout n’est que supercherie et aucune valeur n’a été réellement créée, je n’ai fait qu’imprimer et distribuer des faux qui passent pour vrais.</span>
 
-<span style="font-weight: 400;">Ainsi, la monnaie n’est que la clef qui ouvre le coffre fort. Lorsque que la monnaie elle-même, son support physique, avait encore de la valeur (or, argent…), le contenu du coffre était encore indexé sur le chiffre marqué sur la clef. Désormais, nous sommes dans des systèmes où les clefs passent de main en main sans jamais retourner ouvrir le coffre. **Notre confiance en la monnaie est telle que le chiffre marqué sur la clef suffit et fait autorité.**</span>
+<span style="font-weight: 400;">Ainsi, la monnaie n’est que la clef qui ouvre le coffre fort. Lorsque la monnaie elle-même, son support physique, avait encore de la valeur (or, argent…), le contenu du coffre était encore indexé sur le chiffre marqué sur la clef. Désormais, nous sommes dans des systèmes où les clefs passent de main en main sans jamais retourner ouvrir le coffre. **Notre confiance en la monnaie est telle que le chiffre marqué sur la clef suffit et fait autorité.**</span>
 
 ### <span style="font-weight: 400;">Le mythe du troc et de son inefficacité</span>
 
@@ -78,7 +78,7 @@ tags: [bitcoin, argent, monnaie blockchain, cryptomonnaie, EcoCrypto]
 
 <span style="font-weight: 400;">Les sociétés agricoles prémodernes étaient très largement **auto-suffisantes**, ainsi les échanges entre les membres d’une même communauté se faisait par des systèmes informels et fondés sur la relation : « l’économie » était donc fondé sur le don et la réciprocité.[^3]
 
-<span style="font-weight: 400;">En termes concret, plutôt que le « ma chèvre contre ton blé », cela donne plutôt du : « Je vais t’aider à construire cette maison car je sais bien le faire. Plus tard, toi qui travaille bien le bois m’aideras à aménager cette autre demeure. Si tu ne le fais pas, tu remets en cause 1/ notre relation, 2/ ta place même au sein de la communauté. » </span>
+<span style="font-weight: 400;">En termes concrets, plutôt que le « ma chèvre contre ton blé », cela donne plutôt du : « Je vais t’aider à construire cette maison car je sais bien le faire. Plus tard, toi qui travaille bien le bois m’aideras à aménager cette autre demeure. Si tu ne le fais pas, tu remets en cause 1/ notre relation, 2/ ta place même au sein de la communauté. » </span>
 
 *<span style="font-weight: 400;">Note : Les systèmes décrits étant informels, le « si tu ne le fais pas… » n’avait pas besoin d’être rappelé, il était compris intuitivement.</span>*
 
@@ -101,7 +101,7 @@ tags: [bitcoin, argent, monnaie blockchain, cryptomonnaie, EcoCrypto]
 
 ![fractional-reserve](/img/2018/money101/fractional-reserve.png)
 
-<span style="font-weight: 400;">En bref et très (trop) rapide cela donne ça – une banque centrale crée une base monétaire qui permet aux banques commerciales d’émettre elle-même de la monnaie au travers de prêts. Lors que Bob vient emprunter 10 000€ à la BNP, la BNP ne tape pas dans ses réserves pour créditer son compte. Elle se contente de changer le chiffre associé au compte de Bob pour inclure les 10 000€ prêtés. La confiance dans le protocole bancaire est maintenue grâce à des systèmes de réserves requises correspondant à une partie de l’argent prêté[^6]. Cela nous amène directement au point suivant. 
+<span style="font-weight: 400;">En bref et très (trop) rapide cela donne ça – une banque centrale crée une base monétaire qui permet aux banques commerciales d’émettre elle-même de la monnaie au travers de prêts. Lorsque Bob vient emprunter 10 000€ à la BNP, la BNP ne tape pas dans ses réserves pour créditer son compte. Elle se contente de changer le chiffre associé au compte de Bob pour inclure les 10 000€ prêtés. La confiance dans le protocole bancaire est maintenue grâce à des systèmes de réserves requises correspondant à une partie de l’argent prêté[^6]. Cela nous amène directement au point suivant. 
 
 ### Le mythe du digital : un livre de comptes sur un serveur reste un livre de comptes
 
@@ -112,7 +112,7 @@ Bientot dans vos wallets
 
 <span style="font-weight: 400;">**En réalité, la nature de la monnaie n’a pas changé**, c’est toujours le bon vieux livre de comptes à la banque qui fait loi. Si ce livre de comptes fait loi, c’est parce qu’il s’inscrit dans un système politique, social et judiciaire qui lui donne son autorité. Qu’il soit modifié par des moyens analogues ou digitaux ne change pas grand-chose.</span>
 
-<span style="font-weight: 400;">Avec la carte bleue, les distributeurs automatiques, les banques en ligne et toutes les autres « innovations », on peut avoir l’impression qu’il y a eu un changement dans le système monétaire. En vérité, c’est toujours essentiellement le même système, avec une monnaie qui répond aux mêmes lois. **L’innovation et le changement se sont fait au niveaux des interfaces pour manipuler et dépenser la monnaie.** </span>
+<span style="font-weight: 400;">Avec la carte bleue, les distributeurs automatiques, les banques en ligne et toutes les autres « innovations », on peut avoir l’impression qu’il y a eu un changement dans le système monétaire. En vérité, c’est toujours essentiellement le même système, avec une monnaie qui répond aux mêmes lois. **L’innovation et le changement se sont fait au niveau des interfaces pour manipuler et dépenser la monnaie.** </span>
 
 ![](/img/2018/money101/coins.jpeg)
 *Le Franc Or*
@@ -121,7 +121,7 @@ Bientot dans vos wallets
 
 ### Un aperçu des véritables innovations monétaires
 
-<span style="font-weight: 400;">Il fallait reposer les bases pour en arriver enfin jusqu’ici : ça ressemble à quoi une véritable innovation monétaire ? Cela peut prendre des formes bien différentes en fonctions des mécanismes qui sont modifiés. Voici quelques pistes :</span>
+<span style="font-weight: 400;">Il fallait reposer les bases pour en arriver enfin jusqu’ici : ça ressemble à quoi une véritable innovation monétaire ? Cela peut prendre des formes bien différentes en fonction des mécanismes qui sont modifiés. Voici quelques pistes :</span>
 
 #### <span style="font-weight: 400;">Changer les mécanismes de gouvernance des livres de compte</span>
 
