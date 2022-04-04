@@ -19,7 +19,7 @@ Il y a quelques mois, j’ai réalisé que je n’avais pas tout compris à la d
 ![Sur la pancarte d’Homer: “La fin est proche” — The Simpsons: Saison 16, Episode 19 — Thank God it’s Doomsday / C’est l’apocalypse, Dieu merci !](/img/2018/decentralisation-layman/homer.png)
 Sur la pancarte d’Homer: “La fin est proche” — The Simpsons: Saison 16, Episode 19 — Thank God it’s Doomsday / C’est l’apocalypse, Dieu merci !
 
-La décentralisation n’est vraiment pas un changement facile à appréhender. Imaginez-vous en 1995, dans les premiers jours de l’Internet. Auriez-vous pu envisager toutes les utilisations potentielles de la technologie et les conséquences qu’elle allait avoir ? À cette époque, il y avait même [des acteurs majeurs de l’industrie de la technologie](https://www.newstatesman.com/science-tech/internet/2016/08/25-years-here-are-worst-ever-predictions-about-internet) qui étaient complètement à côté de la plaque :
+La décentralisation n’est vraiment pas un changement facile à appréhender. Imaginez vous en 1995, dans les premiers jours de l’Internet. Auriez-vous pu envisager toutes les utilisations potentielles de la technologie et les conséquences qu’elle allait avoir ? À cette époque, il y avait même [des acteurs majeurs de l’industrie de la technologie](https://www.newstatesman.com/science-tech/internet/2016/08/25-years-here-are-worst-ever-predictions-about-internet) qui étaient complètement à côté de la plaque :
 
 *   **Robert Meltcafe pour Infoworld, 1995** :
 
@@ -31,13 +31,13 @@ La décentralisation n’est vraiment pas un changement facile à appréhender. 
 
 **Il est facile de rire d’eux aujourd’hui mais avant ça demandez-vous si vous n’êtes pas en train de faire exactement la même chose avec la décentralisation.**
 
-Ma première audience pour cet article, ce sont les gens qui ont lu deux articles dans des medias grand public avant de conclure sur l’inutilité de la décentralisation. **Laissez-moi compléter la trinité avec un avis informé.**
+Ma première audience pour cet article, ce sont les gens qui ont lu deux articles dans des médias grand public avant de conclure sur l’inutilité de la décentralisation. **Laissez-moi compléter la trinité avec un avis informé.**
 
 Les médias grand public sont là pour promouvoir des contenus émotionnels qui font réagir : essentiellement, ce sont des dealers de dopamine. Ils ne sont pas là pour vous aider à apprendre et à vous développer ; ils sont les seuls responsables de leur agonie.
 
 Pour ma part, je ne suis qu’un de vos compatriotes âgé de 26 ans avec une passion pour l’écriture et du temps pour l’exercer. **Je n’ai rien à vous vendre mais simplement un but : aider les gens à réaliser ce qu’il est en train de se passer afin qu’ils puissent en prendre part.**
 
-J’ai testé le brouillon de cet article sur des gens de tout âge : pour 12 minutes de votre attention, il vous permet d’acquérir une grille de lecture qui vous laissera voir la décentralisation pour ce qu’elle est : les prémisses d’un nouvel ordre mondial.
+J’ai testé le brouillon de cet article sur des gens de tout âge : pour 12 minutes de votre attention, il vous permet d’acquérir une grille de lecture qui vous laissera voir la décentralisation pour ce qu’elle est : les prémices d’un nouvel ordre mondial.
 
 Le changement est difficile, effrayant et déroutant. Il détruit vos références précédentes et vous laisse dans un monde où tout redevient inconnu et imprédictible. Cela demande du travail pour s’adapter, mais plus vous commencez tôt, plus cela sera aisé ; exactement comme pour Internet.
 
