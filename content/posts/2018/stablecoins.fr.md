@@ -23,23 +23,23 @@ Bien que l’argument de la volatilité serve souvent d’épouvantail, il nous 
 ![Geographical distribution of the query “How to buy bitcoin” using Google Trends](/img/2018/stablecoins/buy-bitcoin.png)
 Distribution géographique des recherches « Comment acheter des bitcoins » via Google Trends
 
-Au Ghana, la monnaie nationale (le Cedi – GHS) est passé d’une valeur proche du dollar en 2008 à une vingtaine de cents aujourd’hui. La monnaie nigérienne elle (le Naira – NGN) a perdu la moitié de sa valeur (mesurée face au dollar) en une dizaine d’années.
+Au Ghana, la monnaie nationale (le Cedi – GHS) est passée d’une valeur proche du dollar en 2008 à une vingtaine de cents aujourd’hui. La monnaie nigériane elle (le Naira – NGN) a perdu la moitié de sa valeur (mesurée face au dollar) en une dizaine d’années.
 
 ![The exchange rate of the dollar against the Cedi (left) and Naira (right) over the last ten years. Source: [TradingEconomics](https://tradingeconomics.com/).](/img/2018/stablecoins/cedi.png)
 Évolution du taux d'échange du dollar face au Cedi (Ghana) et au Naira (Nigeria) Source: [TradingEconomics](https://tradingeconomics.com/).
 
-10 ans, c’est une échelle temporelle assez courte pour que chaque personne ayant vécu dans ces pays ait vu le changement de ses propres yeux. Cela pourrait expliquer leur appétance pour les cryptomonnaies qui bien que volatile s’avèrent plus fiable que leur monnaie nationale. En réalité, déterminer la valeur d’une monnaie est une question complexe qui ne se résout pas avec une simple mesure de son prix face au dollar. Si le dollar est notre point de référence, alors cela nous amène à l’étape suivante : le dollar est-il stable ?
+10 ans, c’est une échelle temporelle assez courte pour que chaque personne ayant vécu dans ces pays ait vu le changement de ses propres yeux. Cela pourrait expliquer leur appétence pour les cryptomonnaies qui bien que volatiles s’avèrent plus fiables que leur monnaie nationale. En réalité, déterminer la valeur d’une monnaie est une question complexe qui ne se résout pas avec une simple mesure de son prix face au dollar. Si le dollar est notre point de référence, alors cela nous amène à l’étape suivante : le dollar est-il stable ?
 
 On pourrait être tenté de dire oui : le dollar n’a pas changé de nature ces cinquante dernières années – un billet de $1 émis en 1968 par exemple serait toujours accepté comme tel aujourd’hui. Mais quid de sa valeur ? En réalité elle change sans arrêt. Est-ce qu’un $1 vaut toujours $1 ? La réponse est tout simplement non : $1 de 1968 équivaut à une valeur supérieure à $7 aujourd’hui.
 
 ![Evolution of the buying power of the equivalent a 1968 dollar from this date until now. Source: [TradingEconomics](https://tradingeconomics.com/).](/img/2018/stablecoins/inflation.png)
 Évolution du pouvoir d’achat d’un dollar de 1968 depuis cette date. Source: [TradingEconomics](https://tradingeconomics.com/).
 
-La principale cause de ce rapport est bien sûre l’inflation. C’est un sujet assez complexe pour en faire des thèses, on le laissera donc à d’autres. Maintenant que le contexte est posé, revenons en aux stablecoins.
+La principale cause de ce rapport est bien sûr l’inflation. C’est un sujet assez complexe pour en faire des thèses, on le laissera donc à d’autres. Maintenant que le contexte est posé, revenons en aux stablecoins.
 
 ### Qu’est-ce qu’un stablecoin ?
 
-Le concept du stablecoin est très simple, l’enjeu est dans la mise en place. **Un stablecoin, c’est une cryptomonnaie qui a une valeur fixé sur celle d’un bien (comme l’or) ou une monnaie courante (le dollar le plus souvent).**
+Le concept du stablecoin est très simple, l’enjeu est dans la mise en place. **Un stablecoin, c’est une cryptomonnaie qui a une valeur fixée sur celle d’un bien (comme l’or) ou une monnaie courante (le dollar le plus souvent).**
 
 Il n’a donc pas une valeur stable : sa valeur est simplement indexée sur celle d’un actif **relativement** stable. Un stablecoin est déjà un challenge immense, mais une monnaie à valeur stable relève carrément du fantasme.
 
@@ -58,7 +58,7 @@ Plus sérieusement, la stabilité d’une monnaie pourrait être définie comme 
 
 Il existe déjà des stablecoins aujourd’hui, tels que l’USDT. Ils sont principalement utilisés sur les services d’échanges de cryptomonnaies car ils permettent d’éviter de recourir aux fiats et donc d’avoir à répondre à toutes les règles qu’elles doivent suivre. En outre, le prix d’échange fixe des stablecoins (face aux fiats) en font **un outil de spéculation très prisé** : ils permettent de sortir du marché sans vraiment en sortir.
 
-Les stablecoins permettent ainsi aux traders de rentrer et sortir facilement du marché tout en gardant leur argent en dehors du système bancaire traditionnel et des contraintes qu’il implique. Comme souvent avec les cryptomonnaies, à court terme **c’est avant tout la spéculation qui prime**. Néanmoins les stablecoins ne sont par qu’un pur outil spéculatif, ils ont un réel intérêt sur le long terme.
+Les stablecoins permettent ainsi aux traders de rentrer et sortir facilement du marché tout en gardant leur argent en dehors du système bancaire traditionnel et des contraintes qu’il implique. Comme souvent avec les cryptomonnaies, à court terme **c’est avant tout la spéculation qui prime**. Néanmoins les stablecoins ne sont pas qu’un pur outil spéculatif, ils ont un réel intérêt sur le long terme.
 
 À cause de la fluctuation significative des cryptomonnaies par rapport aux fiats ($, €…), les cryptos ne sont pas encore utilisées comme monnaies en tant que telles. En effet, il n’y a encore que peu de gens qui choisissent de recevoir leur salaire en cryptos ou les utilisent pour payer leurs courses.
 
@@ -70,13 +70,13 @@ Pour arriver à exaucer leur promesse d’un prix d’échange fixé contre une 
 
 #### Les stablecoins garantis grâce à une réserve de fiat
 
-C’est l’approche la plus simple et directe pour arriver à un stablecoin, mais aussi la plus centralisé. En bref, il y a une entité qui émet le stablecoin et qui possède une réserve de dollar correspondant au volume émis. Cela garanti ainsi la solvabilité du stablecoin émis et permet l’échange entre le stablecoin et le dollar à tout moment.
+C’est l’approche la plus simple et directe pour arriver à un stablecoin, mais aussi la plus centralisée. En bref, il y a une entité qui émet le stablecoin et qui possède une réserve de dollar correspondant au volume émis. Cela garantit ainsi la solvabilité du stablecoin émis et permet l’échange entre le stablecoin et le dollar à tout moment.
 
 Cette approche pose cependant plusieurs problèmes : tout d’abord elle est **complètement** **centralisée** puisqu’une entité unique et identifiée émet le stablecoin. Il faut donc pouvoir lui faire confiance. En outre, elle est **économiquement inefficace** puisque si le stablecoin est utilisé à grande échelle, cela implique une quantité d’argent astronomique qui « dort » quelque part sur un compte en banque.
 
 ##### USDT
 
-C’est le mécanisme utilisé par l’USDT, le stablecoin le plus courant. L’USDT est particulièrement décrié à cause de son **manque de transparence** – il n’y a pas de manière fiable pour ses utilisateurs de vérifier que Tether (l’organisme qui émet l’USDT) possède effectivement en réserve une quantité de dollar correspondant au volume d’USDT émis : environ 2,8 milliard. En outre, les liens entre Tether et Bitfinex (le 4ème plus grand service d’échange de cryptomonnaies en terme de volume) amènent à se poser des questions sur l’utilisation potentiel de l’USDT comme outil pour manipuler le marché.
+C’est le mécanisme utilisé par l’USDT, le stablecoin le plus courant. L’USDT est particulièrement décrié à cause de son **manque de transparence** – il n’y a pas de manière fiable pour ses utilisateurs de vérifier que Tether (l’organisme qui émet l’USDT) possède effectivement en réserve une quantité de dollar correspondant au volume d’USDT émis : environ 2,8 milliard. En outre, les liens entre Tether et Bitfinex (le 4ème plus grand service d’échange de cryptomonnaies en termes de volume) amènent à se poser des questions sur l’utilisation potentielle de l’USDT comme outil pour manipuler le marché.
 
 ##### TUSD
 
@@ -100,7 +100,7 @@ Le Dai fonctionne en pair avec le MKR qui est le token de gouvernance. Les posse
 
 Ces stablecoins sont les plus prometteurs sur le long terme car ils répondent aux problèmes posés par les deux catégories précédentes : ils offrent une solution décentralisée qui permet d’envisager un usage à grande échelle. Les projets de ce type sont encore en développement.
 
-Ils s’appuient le plus souvent sur des mécanismes algorithmiques qui augmentent ou réduisent le volume de stablecoin en circulation en fonction de la demande : si le prix passe au dessus de $1, le volume en circulation augmente et inversement si le prix passe en dessous du dollar. Les deux projets de ce type les plus visibles sont Basis et Carbon.
+Ils s’appuient le plus souvent sur des mécanismes algorithmiques qui augmentent ou réduisent le volume de stablecoin en circulation en fonction de la demande : si le prix passe au-dessus de $1, le volume en circulation augmente et inversement si le prix passe en dessous du dollar. Les deux projets de ce type les plus visibles sont Basis et Carbon.
 
 ##### Basis
 
@@ -108,11 +108,11 @@ Basis propose une « banque centrale algorithmique » qui permettrait de stabili
 
 ##### Carbon
 
-Carbon s’appuie quand à lui sur un mécanisme théorisé en 2014 ([seigniorage shares](https://github.com/rmsams/stablecoins/blob/master/paper.pdf)) par Robert Sams mais qui n’a pas encore connu de réalisation concrète. On reste donc encore sur des solutions qui sont à l’heure actuelle encore purement théorique ou au mieux en train d’être testée sur une échelle modeste.
+Carbon s’appuie quand à lui sur un mécanisme théorisé en 2014 ([seigniorage shares](https://github.com/rmsams/stablecoins/blob/master/paper.pdf)) par Robert Sams mais qui n’a pas encore connu de réalisation concrète. On reste donc encore sur des solutions qui sont à l’heure actuelle encore purement théoriques ou au mieux en train d’être testées sur une échelle modeste.
 
 ### Stablecoins : Sauveurs ou FOSSOYEURS?
 
-Les stablecoins sont une invention récente et fascinante. Il y a de nombreux projets en développement ([liste non exhaustive](https://stablecoinindex.com/projects/)) qui s’appuient sur des approches variées. La catégorisation proposée au dessus est simplifiée : certains projets mêlent ainsi plusieurs types de garanties différentes, d’autres s’appuient sur des mécanismes totalement différents qui ne rentre dans aucune des trois catégories.
+Les stablecoins sont une invention récente et fascinante. Il y a de nombreux projets en développement ([liste non exhaustive](https://stablecoinindex.com/projects/)) qui s’appuient sur des approches variées. La catégorisation proposée au-dessus est simplifiée : certains projets mêlent ainsi plusieurs types de garanties différentes, d’autres s’appuient sur des mécanismes totalement différents qui ne rentrent dans aucune des trois catégories.
 
 À l’heure actuelle les stablecoins répondent à besoin purement spéculatif mais ils peuvent également constituer à long terme un outil qui permettra l’adoption à grande échelle des cryptomonnaies. En termes de volume, **l’USDT domine très largement le marché des stablecoins** ce qui pose un risque systémique sur l’ensemble du marché des cryptomonnaies : si Tether venait à faillir, cela pourrait entraîner une panique généralisée. **La spéculation a donc poussé le marché à s’appuyer sur un outil peu transparent et très centralisé : une douce ironie pour le futur de la décentralisation.**
 
